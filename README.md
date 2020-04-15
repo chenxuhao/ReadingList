@@ -35,6 +35,8 @@
 
 [HyGCN: A GCN Accelerator with Hybrid Architecture](https://arxiv.org/pdf/2001.02514.pdf) HPCA'20
 
+[Exploiting Locality in Graph Analytics through Hardware-Accelerated Traversal Scheduling](http://people.csail.mit.edu/sanchez/papers/2018.hats.micro.pdf) MICRO'18
+
 [UWB-GCN: Accelerating Graph Convolutional Networks through Runtime Workload Rebalancing](https://arxiv.org/pdf/1908.10834.pdf)
 
 [Graphicionado: A High-Performance and Energy Efficient Accelerator for Graph Analytics](https://mrmgroup.cs.princeton.edu/papers/taejun_micro16.pdf) MICRO'16
