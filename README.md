@@ -31,6 +31,7 @@
 [Inductive Representation Learning on Large Graphs](learning/GraphSAGE.pdf) NIPS'17
 
 ## Papers on Hardware Acceleration
+[The TrieJax Architecture: Accelerating Graph Operations Through Relational Joins](https://arxiv.org/pdf/1905.08021.pdf)
 
 [HyGCN: A GCN Accelerator with Hybrid Architecture](https://arxiv.org/pdf/2001.02514.pdf) HPCA'20
 
@@ -51,3 +52,7 @@
 [GraphABCD: Scaling Out Graph Analytics with Asynchronous Block Coordinate Descent]() ISCA'20
 
 [GaaS-X: Graph Analytics Accelerator Supporting Sparse Data Representation Using Crossbar Architectures]() ISCA'20
+
+[POSTER: Domain-Specialized Cache Management for Graph Analytics](http://www.faldupriyank.com/papers/GRASP_PACT19.pdf) PACT'19 [code](https://github.com/ease-lab/grasp)
+
+[Domain-Specialized Cache Management for Graph Analytics](https://www.research.ed.ac.uk/portal/files/131011069/Domain_Specialized_Cache_FALDU_DOA06112019_AFV.pdf) HPCA'20
