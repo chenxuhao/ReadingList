@@ -12,7 +12,7 @@
 [Peregrine: A Pattern-Aware Graph Mining System](mining/Eurosys20-Peregrine.pdf) Eurosys'20
 
 ## Papers on Graph Learning
-[Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs](learning/DGL.pdf) ICLR'19
+[Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs](learning/DGL.pdf) ICLR'19 [website](https://www.dgl.ai/)
 
 [Fast Graph Representation Learning with PyTorch Geometric](learning/PyG.pdf) ICLR'19
 
