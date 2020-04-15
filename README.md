@@ -29,3 +29,25 @@
 [Hierarchical Graph Representation Learning with Differentiable Pooling](learning/diffpool.pdf) NeurIPS'18
 
 [Inductive Representation Learning on Large Graphs](learning/GraphSAGE.pdf) NIPS'17
+
+## Papers on Hardware Acceleration
+
+[HyGCN: A GCN Accelerator with Hybrid Architecture](https://arxiv.org/pdf/2001.02514.pdf) HPCA'20
+
+[UWB-GCN: Accelerating Graph Convolutional Networks through Runtime Workload Rebalancing](https://arxiv.org/pdf/1908.10834.pdf)
+
+[Graphicionado: A High-Performance and Energy Efficient Accelerator for Graph Analytics](https://mrmgroup.cs.princeton.edu/papers/taejun_micro16.pdf) MICRO'16
+
+[GraphR: Accelerating Graph Processing Using ReRAM](https://arxiv.org/pdf/1708.06248.pdf) HPCA'18
+
+[GraphQ: Scalable PIM-Based Graph Processing](http://alchem.usc.edu/portal/static/download/graphq.pdf) MICRO'19
+
+[GraphP: Reducing Communication of PIM-based Graph Processing with Efficient Data Partition](http://csl.stanford.edu/~christos/publications/2018.graphp.hpca.pdf)
+
+[GraphSAR: A Sparsity-Aware Processing-in-Memory Architecture for Large-Scale Graph Processing on ReRAMs](https://dl.acm.org/doi/pdf/10.1145/3287624.3287637)
+
+[Alleviating Irregularity in Graph Analytics Acceleration: a Hardware/Software Co-Design Approach](https://web.ece.ucsb.edu/~iakgun/files/MICRO2019.pdf) MICRO'19
+
+[GraphABCD: Scaling Out Graph Analytics with Asynchronous Block Coordinate Descent]() ISCA'20
+
+[GaaS-X: Graph Analytics Accelerator Supporting Sparse Data Representation Using Crossbar Architectures]() ISCA'20
