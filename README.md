@@ -11,6 +11,10 @@
 
 [Peregrine: A Pattern-Aware Graph Mining System](mining/Eurosys20-Peregrine.pdf) Eurosys'20
 
+[EmptyHeaded: A Relational Engine for Graph Processing](mining/EmptyHeaded.pdf) SIGMOD'16
+
+[The Power of Pivoting for Exact Clique Counting](mining/Pivoter.pdf) WSDM'20
+
 ## Papers on Graph Learning
 [Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs](learning/DGL.pdf) ICLR'19 [website](https://www.dgl.ai/)
 
