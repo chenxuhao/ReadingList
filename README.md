@@ -1,4 +1,4 @@
-# ReadingList
+# Reading List
 [The long list from MIT](https://people.csail.mit.edu/jshun/graph.shtml)
 
 ## Papers on Graph Mining
