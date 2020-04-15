@@ -42,9 +42,9 @@
 
 [GraphQ: Scalable PIM-Based Graph Processing](http://alchem.usc.edu/portal/static/download/graphq.pdf) MICRO'19
 
-[GraphP: Reducing Communication of PIM-based Graph Processing with Efficient Data Partition](http://csl.stanford.edu/~christos/publications/2018.graphp.hpca.pdf)
+[GraphP: Reducing Communication of PIM-based Graph Processing with Efficient Data Partition](http://csl.stanford.edu/~christos/publications/2018.graphp.hpca.pdf) HPCA'18
 
-[GraphSAR: A Sparsity-Aware Processing-in-Memory Architecture for Large-Scale Graph Processing on ReRAMs](https://dl.acm.org/doi/pdf/10.1145/3287624.3287637)
+[GraphSAR: A Sparsity-Aware Processing-in-Memory Architecture for Large-Scale Graph Processing on ReRAMs](https://dl.acm.org/doi/pdf/10.1145/3287624.3287637) ASPDAC'19
 
 [Alleviating Irregularity in Graph Analytics Acceleration: a Hardware/Software Co-Design Approach](https://web.ece.ucsb.edu/~iakgun/files/MICRO2019.pdf) MICRO'19
 
