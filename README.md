@@ -31,7 +31,7 @@
 [Inductive Representation Learning on Large Graphs](learning/GraphSAGE.pdf) NIPS'17
 
 ## Papers on Hardware Acceleration
-[The TrieJax Architecture: Accelerating Graph Operations Through Relational Joins](https://arxiv.org/pdf/1905.08021.pdf)
+[The TrieJax Architecture: Accelerating Graph Operations Through Relational Joins](https://arxiv.org/pdf/1905.08021.pdf) ASPLOS'20
 
 [HyGCN: A GCN Accelerator with Hybrid Architecture](https://arxiv.org/pdf/2001.02514.pdf) HPCA'20
 
