@@ -19,3 +19,13 @@
 [Improving the Accuracy, Scalability, and Performance of Graph Neural Networks with Roc](learning/Roc.pdf) MLSys'20
 
 [NeuGraph: Parallel Deep Neural Network Computation on Large Graphs](learning/NeuGraph.pdf) USENIX ATC'19
+
+[Semi-Supervised Classification with Graph Convolutional Networks](learning/GCN.pdf) ICLR'17
+
+[DeepWalk: Online Learning of Social Representations](learning/DeepWalk.pdf) KDD'14
+
+[node2vec: Scalable Feature Learning for Networks](learning/node2vec.pdf) KDD'16
+
+[Hierarchical Graph Representation Learning with Differentiable Pooling](learning/diffpool.pdf) NeurIPS'18
+
+[Inductive Representation Learning on Large Graphs](learning/GraphSAGE.pdf) NIPS'17
