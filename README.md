@@ -60,3 +60,15 @@
 [Domain-Specialized Cache Management for Graph Analytics](https://www.research.ed.ac.uk/portal/files/131011069/Domain_Specialized_Cache_FALDU_DOA06112019_AFV.pdf) HPCA'20
 
 [Q100: The architecture and design of a database processing unit](https://dl.acm.org/doi/pdf/10.1145/2654822.2541961) ASPLOS'14
+
+[Analysis and Optimization of the Memory Hierarchy for Graph Processing Workloads](https://seal.ece.ucsb.edu/sites/default/files/publications/hpca-2019-abanti.pdf) HPCA'19
+
+[SCU: a GPU stream compaction unit for graph processing](http://personals.ac.upc.edu/asegura/publications/isca2019.pdf) ISCA'19
+
+[Balancing Memory Accesses for Energy-Efficient Graph Analytics Accelerators](https://ieeexplore.ieee.org/abstract/document/8824832) ISLPED'19
+
+[Energy Efficient Architecture for Graph Analytics Accelerators](https://www.cs.virginia.edu/~smk9u/CS6501F16/p166-ozdal.pdf) ISCA'16
+
+[GraphH: A Processing-in-Memory Architecture for Large-Scale Graph Processing](https://cseweb.ucsd.edu/~jzhao/files/GraphH-tcad.pdf) TCADICS
+
+
