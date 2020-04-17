@@ -8,7 +8,6 @@
 [NN-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 
 ## Papers on Graph Mining
-
 [Scaling Up Subgraph Query Processing with Efficient Subgraph Matching](mining/ICDE19-ScalingUpSubgraphQueryProcessing.pdf) ICDE'19
 
 [Efficient Parallel Subgraph Enumeration on a Single Machine](mining/ICDE19-LIGHT.pdf) ICDE'19
@@ -22,6 +21,8 @@
 [The Power of Pivoting for Exact Clique Counting](mining/Pivoter.pdf) WSDM'20
 
 ## Papers on Graph Learning
+[The Logical Expressiveness of Graph Neural Networks](https://openreview.net/pdf?id=r1lZ7AEKvB)
+
 [Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs](learning/DGL.pdf) ICLR'19 [DGL website](https://www.dgl.ai/)
 
 [Fast Graph Representation Learning with PyTorch Geometric](learning/PyG.pdf) ICLR'19 [PyG website](https://github.com/rusty1s/pytorch_geometric)
@@ -31,6 +32,8 @@
 [NeuGraph: Parallel Deep Neural Network Computation on Large Graphs](learning/NeuGraph.pdf) USENIX ATC'19 [NeuGraph website](https://www.microsoft.com/en-us/research/publication/neugraph-parallel-deep-neural-network-computation-on-large-graphs/)
 
 [Semi-Supervised Classification with Graph Convolutional Networks](learning/GCN.pdf) ICLR'17 [GCN website](https://github.com/tkipf/gcn)
+
+[How Powerful are Graph Neural Networks?](https://openreview.net/pdf?id=ryGs6iA5Km) ICLR'19 [GIN website](https://github.com/weihua916/powerful-gnns)
 
 [Hierarchical Graph Representation Learning with Differentiable Pooling](learning/diffpool.pdf) NeurIPS'18 [diffpool website](https://github.com/RexYing/diffpool)
 
