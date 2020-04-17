@@ -1,6 +1,12 @@
 # Reading List
 [The long list from MIT](https://people.csail.mit.edu/jshun/graph.shtml)
 
+[Other List](https://github.com/Qingfeng-Yao/Readinglist)
+
+[GNN papers](https://github.com/thunlp/GNNPapers)
+
+[NN-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
+
 ## Papers on Graph Mining
 
 [Scaling Up Subgraph Query Processing with Efficient Subgraph Matching](mining/ICDE19-ScalingUpSubgraphQueryProcessing.pdf) ICDE'19
@@ -18,13 +24,13 @@
 ## Papers on Graph Learning
 [Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs](learning/DGL.pdf) ICLR'19 [website](https://www.dgl.ai/)
 
-[Fast Graph Representation Learning with PyTorch Geometric](learning/PyG.pdf) ICLR'19
+[Fast Graph Representation Learning with PyTorch Geometric](learning/PyG.pdf) ICLR'19 [website](https://github.com/rusty1s/pytorch_geometric)
 
 [Improving the Accuracy, Scalability, and Performance of Graph Neural Networks with Roc](learning/Roc.pdf) MLSys'20 [website](https://github.com/flexflow/FlexFlow)
 
 [NeuGraph: Parallel Deep Neural Network Computation on Large Graphs](learning/NeuGraph.pdf) USENIX ATC'19 [website](https://www.microsoft.com/en-us/research/publication/neugraph-parallel-deep-neural-network-computation-on-large-graphs/)
 
-[Semi-Supervised Classification with Graph Convolutional Networks](learning/GCN.pdf) ICLR'17
+[Semi-Supervised Classification with Graph Convolutional Networks](learning/GCN.pdf) ICLR'17 [website](https://github.com/tkipf/gcn)
 
 [DeepWalk: Online Learning of Social Representations](learning/DeepWalk.pdf) KDD'14
 
@@ -32,11 +38,10 @@
 
 [Hierarchical Graph Representation Learning with Differentiable Pooling](learning/diffpool.pdf) NeurIPS'18
 
-[Inductive Representation Learning on Large Graphs](learning/GraphSAGE.pdf) NIPS'17
+[Inductive Representation Learning on Large Graphs](learning/GraphSAGE.pdf) NIPS'17 [website](http://snap.stanford.edu/graphsage/)
 
 [GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding](https://arxiv.org/pdf/1903.00757.pdf) WWW'19 [website](https://graphvite.io/)
 
-[]()
 ## Papers on Hardware Acceleration
 [The TrieJax Architecture: Accelerating Graph Operations Through Relational Joins](https://arxiv.org/pdf/1905.08021.pdf) ASPLOS'20
 
