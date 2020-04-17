@@ -49,6 +49,8 @@
 
 [Large-Scale Learnable Graph Convolutional Networks](https://arxiv.org/pdf/1808.03965.pdf) KDD'18 [LGCN website](https://github.com/HongyangGao/LGCN)
 
+[Representation Learning on Graphs with Jumping Knowledge Networks](http://proceedings.mlr.press/v80/xu18c/xu18c.pdf) KDD'18 [JK-net code](https://pytorch-geometric.readthedocs.io/en/latest/_modules/torch_geometric/nn/models/jumping_knowledge.html#JumpingKnowledge)
+
 [DeepWalk: Online Learning of Social Representations](learning/DeepWalk.pdf) KDD'14
 
 [node2vec: Scalable Feature Learning for Networks](learning/node2vec.pdf) KDD'16
