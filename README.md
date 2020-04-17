@@ -22,25 +22,35 @@
 [The Power of Pivoting for Exact Clique Counting](mining/Pivoter.pdf) WSDM'20
 
 ## Papers on Graph Learning
-[Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs](learning/DGL.pdf) ICLR'19 [website](https://www.dgl.ai/)
+[Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs](learning/DGL.pdf) ICLR'19 [DGL website](https://www.dgl.ai/)
 
-[Fast Graph Representation Learning with PyTorch Geometric](learning/PyG.pdf) ICLR'19 [website](https://github.com/rusty1s/pytorch_geometric)
+[Fast Graph Representation Learning with PyTorch Geometric](learning/PyG.pdf) ICLR'19 [PyG website](https://github.com/rusty1s/pytorch_geometric)
 
-[Improving the Accuracy, Scalability, and Performance of Graph Neural Networks with Roc](learning/Roc.pdf) MLSys'20 [website](https://github.com/flexflow/FlexFlow)
+[Improving the Accuracy, Scalability, and Performance of Graph Neural Networks with Roc](learning/Roc.pdf) MLSys'20 [Roc website](https://github.com/flexflow/FlexFlow)
 
-[NeuGraph: Parallel Deep Neural Network Computation on Large Graphs](learning/NeuGraph.pdf) USENIX ATC'19 [website](https://www.microsoft.com/en-us/research/publication/neugraph-parallel-deep-neural-network-computation-on-large-graphs/)
+[NeuGraph: Parallel Deep Neural Network Computation on Large Graphs](learning/NeuGraph.pdf) USENIX ATC'19 [NeuGraph website](https://www.microsoft.com/en-us/research/publication/neugraph-parallel-deep-neural-network-computation-on-large-graphs/)
 
-[Semi-Supervised Classification with Graph Convolutional Networks](learning/GCN.pdf) ICLR'17 [website](https://github.com/tkipf/gcn)
+[Semi-Supervised Classification with Graph Convolutional Networks](learning/GCN.pdf) ICLR'17 [GCN website](https://github.com/tkipf/gcn)
+
+[Hierarchical Graph Representation Learning with Differentiable Pooling](learning/diffpool.pdf) NeurIPS'18 [diffpool website](https://github.com/RexYing/diffpool)
+
+[Inductive Representation Learning on Large Graphs](learning/GraphSAGE.pdf) NIPS'17 [GraphSAGE website](http://snap.stanford.edu/graphsage/)
+
+[Stochastic Training of Graph Convolutional Networks with Variance Reduction](http://proceedings.mlr.press/v80/chen18p/chen18p.pdf) ICML'18 [S-GCN](https://github.com/thu-ml/stochastic_gcn)
+
+[Adaptive Sampling Towards Fast Graph Representation Learning](https://papers.nips.cc/paper/7707-adaptive-sampling-towards-fast-graph-representation-learning.pdf) NIPS'18 [AS-GCN website](https://github.com/huangwb/AS-GCN)
+
+[Cluster-GCN: An Efficient Algorithm for Training Deep and Large Graph Convolutional Networks](https://arxiv.org/pdf/1905.07953.pdf) KDD'19 [ClusterGCN website](https://github.com/google-research/google-research/tree/master/cluster_gcn)
+
+[FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling](https://openreview.net/pdf?id=rytstxWAW) ICLR'18 [FastGCN website](https://github.com/matenure/FastGCN)
+
+[Large-Scale Learnable Graph Convolutional Networks](https://arxiv.org/pdf/1808.03965.pdf) KDD'18 [LGCN website](https://github.com/HongyangGao/LGCN)
 
 [DeepWalk: Online Learning of Social Representations](learning/DeepWalk.pdf) KDD'14
 
 [node2vec: Scalable Feature Learning for Networks](learning/node2vec.pdf) KDD'16
 
-[Hierarchical Graph Representation Learning with Differentiable Pooling](learning/diffpool.pdf) NeurIPS'18
-
-[Inductive Representation Learning on Large Graphs](learning/GraphSAGE.pdf) NIPS'17 [website](http://snap.stanford.edu/graphsage/)
-
-[GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding](https://arxiv.org/pdf/1903.00757.pdf) WWW'19 [website](https://graphvite.io/)
+[GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding](https://arxiv.org/pdf/1903.00757.pdf) WWW'19 [GraphVite website](https://graphvite.io/)
 
 ## Papers on Hardware Acceleration
 [The TrieJax Architecture: Accelerating Graph Operations Through Relational Joins](https://arxiv.org/pdf/1905.08021.pdf) ASPLOS'20
