@@ -8,7 +8,7 @@
 [NN-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 
 ## Papers on Graph Mining
-[Efficient Subgraph Matching: Harmonizing Dynamic Programming, Adaptive Matching Order, and Failing Set Together](https://dl.acm.org/ft_gateway.cfm?id=3319880&type=pdf) SIGMOD'19 [DAF website](https://github.com/SNUCSE-CTA/DAF)
+[Efficient Subgraph Matching: Harmonizing Dynamic Programming, Adaptive Matching Order, and Failing Set Together](mining/DAF.pdf) SIGMOD'19 [DAF website](https://github.com/SNUCSE-CTA/DAF)
 
 [Scaling Up Subgraph Query Processing with Efficient Subgraph Matching](mining/ICDE19-ScalingUpSubgraphQueryProcessing.pdf) ICDE'19
 
