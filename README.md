@@ -23,6 +23,8 @@
 [The Power of Pivoting for Exact Clique Counting](mining/Pivoter.pdf) WSDM'20
 
 ## Papers on Graph Learning
+[GraphSAINT: Graph Sampling Based Inductive Learning Method](https://openreview.net/pdf?id=BJe8pkHFwS) ICLR'20 [GraphSAINT website](https://github.com/GraphSAINT/GraphSAINT)
+
 [The Logical Expressiveness of Graph Neural Networks](https://openreview.net/pdf?id=r1lZ7AEKvB)
 
 [Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs](learning/DGL.pdf) ICLR'19 [DGL website](https://www.dgl.ai/)
