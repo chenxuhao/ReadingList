@@ -8,6 +8,8 @@
 [NN-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 
 ## Papers on Graph Mining
+[In-Memory Subgraph Matching: An In-depth Study](https://dl.acm.org/doi/pdf/10.1145/3318464.3380581) SIGMOD'2020 [website](https://github.com/RapidsAtHKUST/SubgraphMatching)
+
 [Efficient Subgraph Matching: Harmonizing Dynamic Programming, Adaptive Matching Order, and Failing Set Together](mining/DAF.pdf) SIGMOD'19 [DAF website](https://github.com/SNUCSE-CTA/DAF)
 
 [Scaling Up Subgraph Query Processing with Efficient Subgraph Matching](mining/ICDE19-ScalingUpSubgraphQueryProcessing.pdf) ICDE'19
@@ -17,6 +19,8 @@
 [Fast and Robust Distributed Subgraph Enumeration](mining/VLDB19-FastRobustDistributedSubgraphEnumeration.pdf) VLDB'19
 
 [Peregrine: A Pattern-Aware Graph Mining System](mining/Eurosys20-Peregrine.pdf) Eurosys'20
+
+[The Ubiquity of Large Graphs and Surprising Challenges of Graph Processing](http://www.vldb.org/pvldb/vol11/p420-sahu.pdf) VLDB'18
 
 [EmptyHeaded: A Relational Engine for Graph Processing](mining/EmptyHeaded.pdf) SIGMOD'16
 
