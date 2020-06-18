@@ -20,11 +20,15 @@
 
 [Peregrine: A Pattern-Aware Graph Mining System](mining/Eurosys20-Peregrine.pdf) Eurosys'20
 
+[Optimizing Subgraph Queries by Combining Binary and Worst-Case Optimal Joins](http://www.vldb.org/pvldb/vol12/p1692-mhedhbi.pdf) VLDB'19
+
 [The Ubiquity of Large Graphs and Surprising Challenges of Graph Processing](http://www.vldb.org/pvldb/vol11/p420-sahu.pdf) VLDB'18
 
 [EmptyHeaded: A Relational Engine for Graph Processing](mining/EmptyHeaded.pdf) SIGMOD'16
 
 [The Power of Pivoting for Exact Clique Counting](mining/Pivoter.pdf) WSDM'20
+
+[DUALSIM: Parallel Subgraph Enumeration in a Massive Graph on a Single Machine](https://www.ntu.edu.sg/home/assourav/papers/SIGMOD-16-DualSim.pdf) SIGMOD'16
 
 ## Papers on Graph Learning
 [GraphSAINT: Graph Sampling Based Inductive Learning Method](https://openreview.net/pdf?id=BJe8pkHFwS) ICLR'20 [GraphSAINT website](https://github.com/GraphSAINT/GraphSAINT)
