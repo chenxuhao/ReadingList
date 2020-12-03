@@ -83,7 +83,7 @@
 
 [HyGCN: A GCN Accelerator with Hybrid Architecture](https://arxiv.org/pdf/2001.02514.pdf) HPCA'20
 
-[GRIP: A Graph Neural Network Accelerator Architecture]{https://arxiv.org/pdf/2007.13828.pdf}
+[GRIP: A Graph Neural Network Accelerator Architecture](https://arxiv.org/pdf/2007.13828.pdf)
 
 [Architectural Implication of Graph Neural Networks](http://www.cs.sjtu.edu.cn/~leng-jw/resources/Files/zhang20cal-gnn.pdf)
 
