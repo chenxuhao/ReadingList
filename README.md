@@ -7,6 +7,26 @@
 
 [NN-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 
+## Papers on Graph Mining Accelerators
+[A Locality-Aware Energy-Efficient Accelerator for Graph Mining Applications](https://www.microarch.org/micro53/papers/738300a895.pdf) MICRO'20
+
+[The TrieJax Architecture: Accelerating Graph Operations Through Relational Joins](https://arxiv.org/pdf/1905.08021.pdf) ASPLOS'20
+
+## Papers on Graph Learning Accelerators
+[Computing Graph Neural Networks: A Survey from Algorithms to Accelerators](https://arxiv.org/pdf/2010.00130.pdf)
+
+[Hardware Acceleration of Graph Neural Networks](http://rakeshk.crhc.illinois.edu/dac20.pdf) DAC'20
+
+[AWB-GCN: A Graph Convolutional Network Accelerator with Runtime Workload Rebalancing](https://www.microarch.org/micro53/papers/738300a922.pdf) MICRO'20
+
+[HyGCN: A GCN Accelerator with Hybrid Architecture](https://arxiv.org/pdf/2001.02514.pdf) HPCA'20
+
+[GRIP: A Graph Neural Network Accelerator Architecture](https://arxiv.org/pdf/2007.13828.pdf)
+
+[Architectural Implication of Graph Neural Networks](http://www.cs.sjtu.edu.cn/~leng-jw/resources/Files/zhang20cal-gnn.pdf)
+
+[GReTA: Hardware Optimized Graph Processing for GNNs](https://sing.stanford.edu/site/publications/greta-recoml20.pdf)
+
 ## Papers on Graph Mining
 [In-Memory Subgraph Matching: An In-depth Study](https://dl.acm.org/doi/pdf/10.1145/3318464.3380581) SIGMOD'2020 [website](https://github.com/RapidsAtHKUST/SubgraphMatching)
 
@@ -70,26 +90,6 @@
 [node2vec: Scalable Feature Learning for Networks](learning/node2vec.pdf) KDD'16
 
 [GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding](https://arxiv.org/pdf/1903.00757.pdf) WWW'19 [GraphVite website](https://graphvite.io/)
-
-## Papers on Graph Mining Accelerators
-[A Locality-Aware Energy-Efficient Accelerator for Graph Mining Applications](https://www.microarch.org/micro53/papers/738300a895.pdf) MICRO'20
-
-[The TrieJax Architecture: Accelerating Graph Operations Through Relational Joins](https://arxiv.org/pdf/1905.08021.pdf) ASPLOS'20
-
-## Papers on Graph Learning Accelerators
-[Computing Graph Neural Networks: A Survey from Algorithms to Accelerators](https://arxiv.org/pdf/2010.00130.pdf)
-
-[Hardware Acceleration of Graph Neural Networks](http://rakeshk.crhc.illinois.edu/dac20.pdf) DAC'20
-
-[AWB-GCN: A Graph Convolutional Network Accelerator with Runtime Workload Rebalancing](https://www.microarch.org/micro53/papers/738300a922.pdf) MICRO'20
-
-[HyGCN: A GCN Accelerator with Hybrid Architecture](https://arxiv.org/pdf/2001.02514.pdf) HPCA'20
-
-[GRIP: A Graph Neural Network Accelerator Architecture](https://arxiv.org/pdf/2007.13828.pdf)
-
-[Architectural Implication of Graph Neural Networks](http://www.cs.sjtu.edu.cn/~leng-jw/resources/Files/zhang20cal-gnn.pdf)
-
-[GReTA: Hardware Optimized Graph Processing for GNNs](https://sing.stanford.edu/site/publications/greta-recoml20.pdf)
 
 ## Papers on Graph Analytics Accelerators
 [Exploiting Locality in Graph Analytics through Hardware-Accelerated Traversal Scheduling](http://people.csail.mit.edu/sanchez/papers/2018.hats.micro.pdf) MICRO'18
