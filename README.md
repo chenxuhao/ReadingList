@@ -77,6 +77,8 @@
 [The TrieJax Architecture: Accelerating Graph Operations Through Relational Joins](https://arxiv.org/pdf/1905.08021.pdf) ASPLOS'20
 
 ## Papers on Graph Learning Accelerators
+[Computing Graph Neural Networks: A Survey from Algorithms to Accelerators](https://arxiv.org/pdf/2010.00130.pdf)
+
 [Hardware Acceleration of Graph Neural Networks](http://rakeshk.crhc.illinois.edu/dac20.pdf) DAC'20
 
 [AWB-GCN: A Graph Convolutional Network Accelerator with Runtime Workload Rebalancing](https://www.microarch.org/micro53/papers/738300a922.pdf) MICRO'20
