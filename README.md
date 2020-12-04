@@ -51,6 +51,8 @@
 [DUALSIM: Parallel Subgraph Enumeration in a Massive Graph on a Single Machine](https://www.ntu.edu.sg/home/assourav/papers/SIGMOD-16-DualSim.pdf) SIGMOD'16
 
 ## Papers on Graph Learning
+[Deep Graph Library Optimizations for Intel(R) x86 Architecture](https://arxiv.org/pdf/2007.06354.pdf)
+
 [Improving the Accuracy, Scalability, and Performance of Graph Neural Networks with Roc](learning/Roc.pdf) MLSys'20 [Roc website](https://github.com/jiazhihao/ROC)
 
 [FeatGraph: A Flexible and Efficient Backend for Graph Neural Network Systems](https://www.csl.cornell.edu/~zhiruz/pdfs/featgraph-sc2020.pdf) SC'20 [FeatGraph website](https://github.com/amazon-research/FeatGraph)
