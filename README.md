@@ -27,7 +27,9 @@
 
 [GReTA: Hardware Optimized Graph Processing for GNNs](https://sing.stanford.edu/site/publications/greta-recoml20.pdf)
 
-## Papers on Graph Mining
+[GraphACT: Accelerating GCN Training on CPU-FPGA Heterogeneous Platforms](https://arxiv.org/pdf/2001.02498.pdf) FPGA'20
+
+## Papers on Graph Mining Systems
 [In-Memory Subgraph Matching: An In-depth Study](https://dl.acm.org/doi/pdf/10.1145/3318464.3380581) SIGMOD'2020 [website](https://github.com/RapidsAtHKUST/SubgraphMatching)
 
 [Efficient Subgraph Matching: Harmonizing Dynamic Programming, Adaptive Matching Order, and Failing Set Together](mining/DAF.pdf) SIGMOD'19 [DAF website](https://github.com/SNUCSE-CTA/DAF)
@@ -50,7 +52,7 @@
 
 [DUALSIM: Parallel Subgraph Enumeration in a Massive Graph on a Single Machine](https://www.ntu.edu.sg/home/assourav/papers/SIGMOD-16-DualSim.pdf) SIGMOD'16
 
-## Papers on Graph Learning
+## Papers on Graph Learning Systems
 [Deep Graph Library Optimizations for Intel(R) x86 Architecture](https://arxiv.org/pdf/2007.06354.pdf)
 
 [Improving the Accuracy, Scalability, and Performance of Graph Neural Networks with Roc](learning/Roc.pdf) MLSys'20 [Roc website](https://github.com/jiazhihao/ROC)
@@ -131,3 +133,11 @@
 [GraphH: A Processing-in-Memory Architecture for Large-Scale Graph Processing](https://cseweb.ucsd.edu/~jzhao/files/GraphH-tcad.pdf) TCADICS
 
 [GraFBoost: Using accelerated flash storage for external graph analytics](https://people.csail.mit.edu/wjun/papers/isca2018-camera.pdf) ISCA'18
+
+## Papers on Graph Analytics Systems
+
+[Galois](https://github.com/IntelligentSoftwareSystems/Galois)
+
+[Ligra](https://github.com/jshun/ligra)
+
+[PowerGraph](https://github.com/jegonzal/PowerGraph)
