@@ -30,6 +30,9 @@
 [GraphACT: Accelerating GCN Training on CPU-FPGA Heterogeneous Platforms](https://arxiv.org/pdf/2001.02498.pdf) FPGA'20
 
 ## Papers on Graph Mining Systems
+
+[First: Fast interactive attributed subgraph matching](https://idvxlab.com/papers/2017KDD_First_Du.pdf) KDD'17
+
 [In-Memory Subgraph Matching: An In-depth Study](https://dl.acm.org/doi/pdf/10.1145/3318464.3380581) SIGMOD'2020 [website](https://github.com/RapidsAtHKUST/SubgraphMatching)
 
 [Efficient Subgraph Matching: Harmonizing Dynamic Programming, Adaptive Matching Order, and Failing Set Together](mining/DAF.pdf) SIGMOD'19 [DAF website](https://github.com/SNUCSE-CTA/DAF)
@@ -44,13 +47,19 @@
 
 [Optimizing Subgraph Queries by Combining Binary and Worst-Case Optimal Joins](http://www.vldb.org/pvldb/vol12/p1692-mhedhbi.pdf) VLDB'19
 
-[The Ubiquity of Large Graphs and Surprising Challenges of Graph Processing](http://www.vldb.org/pvldb/vol11/p420-sahu.pdf) VLDB'18
-
 [EmptyHeaded: A Relational Engine for Graph Processing](mining/EmptyHeaded.pdf) SIGMOD'16
 
 [The Power of Pivoting for Exact Clique Counting](mining/Pivoter.pdf) WSDM'20
 
 [DUALSIM: Parallel Subgraph Enumeration in a Massive Graph on a Single Machine](https://www.ntu.edu.sg/home/assourav/papers/SIGMOD-16-DualSim.pdf) SIGMOD'16
+
+[AutoMine](https://dl.acm.org/doi/abs/10.1145/3341301.3359633) SOSP'19
+
+[Arabesque](http://arabesque.qcri.org/) SOSP'2015
+
+[RStream](https://www.usenix.org/system/files/osdi18-wang.pdf) OSDI'18
+
+[GraphPi](https://arxiv.org/abs/2009.10955) [website](https://github.com/thu-pacman/GraphPi) SC'20
 
 ## Papers on Graph Learning Systems
 [Deep Graph Library Optimizations for Intel(R) x86 Architecture](https://arxiv.org/pdf/2007.06354.pdf)
@@ -61,15 +70,18 @@
 
 [GraphSAINT: Graph Sampling Based Inductive Learning Method](https://openreview.net/pdf?id=BJe8pkHFwS) ICLR'20 [GraphSAINT website](https://github.com/GraphSAINT/GraphSAINT)
 
-[The Logical Expressiveness of Graph Neural Networks](https://openreview.net/pdf?id=r1lZ7AEKvB)
-
 [Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs](learning/DGL.pdf) ICLR'19 [DGL website](https://www.dgl.ai/)
 
 [Fast Graph Representation Learning with PyTorch Geometric](learning/PyG.pdf) ICLR'19 [PyG website](https://github.com/rusty1s/pytorch_geometric)
 
 [NeuGraph: Parallel Deep Neural Network Computation on Large Graphs](learning/NeuGraph.pdf) USENIX ATC'19 [NeuGraph website](https://www.microsoft.com/en-us/research/publication/neugraph-parallel-deep-neural-network-computation-on-large-graphs/)
 
+[CAGNET](https://arxiv.org/pdf/2005.03300.pdf) [website](https://github.com/PASSIONLab/CAGNET) SC'20
+
+## Papers on Graph Learning Algorithms
 [Semi-Supervised Classification with Graph Convolutional Networks](learning/GCN.pdf) ICLR'17 [GCN website](https://github.com/tkipf/gcn)
+
+[The Logical Expressiveness of Graph Neural Networks](https://openreview.net/pdf?id=r1lZ7AEKvB)
 
 [How Powerful are Graph Neural Networks?](https://openreview.net/pdf?id=ryGs6iA5Km) ICLR'19 [GIN website](https://github.com/weihua916/powerful-gnns)
 
@@ -141,3 +153,11 @@
 [Ligra](https://github.com/jshun/ligra)
 
 [PowerGraph](https://github.com/jegonzal/PowerGraph)
+
+## Survey Papers
+
+[The Ubiquity of Large Graphs and Surprising Challenges of Graph Processing](http://www.vldb.org/pvldb/vol11/p420-sahu.pdf) VLDB'18
+
+[Link prediction in complex networks: A survey](https://arxiv.org/pdf/1010.0725.pdf)
+
+[Survey on social community detection](https://hal.archives-ouvertes.fr/hal-00804234/file/Survey-on-Social-Community-Detection-V2.pdf)
