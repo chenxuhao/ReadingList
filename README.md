@@ -110,6 +110,10 @@
 [GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding](https://arxiv.org/pdf/1903.00757.pdf) WWW'19 [GraphVite website](https://graphvite.io/)
 
 ## Papers on Graph Analytics Accelerators
+[ThunderGP: HLS-based Graph Processing Framework on FPGAs](https://www.comp.nus.edu.sg/~wongwf/papers/FPGA2021.pdf) FPGA'21
+
+[HitGraph: High-throughput Graph Processing Framework on FPGA](https://par.nsf.gov/servlets/purl/10125453) TPDS'19
+
 [Exploiting Locality in Graph Analytics through Hardware-Accelerated Traversal Scheduling](http://people.csail.mit.edu/sanchez/papers/2018.hats.micro.pdf) MICRO'18
 
 [UWB-GCN: Accelerating Graph Convolutional Networks through Runtime Workload Rebalancing](https://arxiv.org/pdf/1908.10834.pdf)
@@ -157,6 +161,7 @@
 [PowerGraph](https://github.com/jegonzal/PowerGraph)
 
 ## Survey Papers
+[Introduction to Graph Neural Networks](https://www.morganclaypool.com/doi/10.2200/S00980ED1V01Y202001AIM045) Book
 
 [The Ubiquity of Large Graphs and Surprising Challenges of Graph Processing](http://www.vldb.org/pvldb/vol11/p420-sahu.pdf) VLDB'18
 
