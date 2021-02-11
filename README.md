@@ -15,6 +15,8 @@
 [The TrieJax Architecture: Accelerating Graph Operations Through Relational Joins](https://arxiv.org/pdf/1905.08021.pdf) ASPLOS'20
 
 ## Papers on Graph Learning Accelerators
+[GCNAX: A Flexible and Energy-efficient Accelerator for Graph Convolutional Neural Networks]()
+
 [Computing Graph Neural Networks: A Survey from Algorithms to Accelerators](https://arxiv.org/pdf/2010.00130.pdf)
 
 [Hardware Acceleration of Graph Neural Networks](http://rakeshk.crhc.illinois.edu/dac20.pdf) DAC'20
@@ -110,6 +112,10 @@
 [GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding](https://arxiv.org/pdf/1903.00757.pdf) WWW'19 [GraphVite website](https://graphvite.io/)
 
 ## Papers on Graph Analytics Accelerators
+[DepGraph: A Dependency-Driven Accelerator for Efficient Iterative Graph Processing]() HPCA'21
+
+[P-OPT: Practical Optimal Cache Replacement for Graph Analytics](https://brandonlucia.com/pubs/POPT_HPCA21_CameraReady.pdf) HPCA'21
+
 [ThunderGP: HLS-based Graph Processing Framework on FPGAs](https://www.comp.nus.edu.sg/~wongwf/papers/FPGA2021.pdf) FPGA'21
 
 [HitGraph: High-throughput Graph Processing Framework on FPGA](https://par.nsf.gov/servlets/purl/10125453) TPDS'19
