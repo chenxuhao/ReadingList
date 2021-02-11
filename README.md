@@ -8,6 +8,8 @@
 [NN-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 
 ## Papers on Graph Mining Accelerators
+[IntersectX: An Accelerator for Graph Mining](https://arxiv.org/pdf/2012.10848.pdf)
+
 [A Locality-Aware Energy-Efficient Accelerator for Graph Mining Applications](https://www.microarch.org/micro53/papers/738300a895.pdf) MICRO'20
 
 [The TrieJax Architecture: Accelerating Graph Operations Through Relational Joins](https://arxiv.org/pdf/1905.08021.pdf) ASPLOS'20
