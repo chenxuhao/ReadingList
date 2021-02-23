@@ -66,6 +66,8 @@
 [GraphPi](https://arxiv.org/abs/2009.10955) [website](https://github.com/thu-pacman/GraphPi) SC'20
 
 ## Papers on Graph Learning Systems
+[Understanding and Bridging the Gaps in Current GNN Performance Optimizations]() PPoPP'21
+
 [Deep Graph Library Optimizations for Intel(R) x86 Architecture](https://arxiv.org/pdf/2007.06354.pdf)
 
 [Improving the Accuracy, Scalability, and Performance of Graph Neural Networks with Roc](learning/Roc.pdf) MLSys'20 [Roc website](https://github.com/jiazhihao/ROC)
