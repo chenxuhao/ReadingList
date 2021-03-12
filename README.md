@@ -176,3 +176,5 @@
 [Link prediction in complex networks: A survey](https://arxiv.org/pdf/1010.0725.pdf)
 
 [Survey on social community detection](https://hal.archives-ouvertes.fr/hal-00804234/file/Survey-on-Social-Community-Detection-V2.pdf)
+
+[Practice of Streaming Processing of Dynamic Graphs: Concepts, Models, and Systems](https://arxiv.org/pdf/1912.12740.pdf)
