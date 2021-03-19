@@ -84,6 +84,12 @@
 
 [CAGNET](https://arxiv.org/pdf/2005.03300.pdf) [website](https://github.com/PASSIONLab/CAGNET) SC'20
 
+[AGL: a scalable system for industrial-purpose graph machine learning](http://www.vldb.org/pvldb/vol13/p3125-zhang.pdf) VLDB'20
+
+[Dorylus: Affordable, Scalable, and Accurate GNN Training over Billion-Edge Graphs]() OSDI'21
+
+[Accurate, Efficient and Scalable Graph Embedding](https://arxiv.org/pdf/1810.11899.pdf) IPDPS'19
+
 ## Papers on Graph Learning Algorithms
 [Semi-Supervised Classification with Graph Convolutional Networks](learning/GCN.pdf) ICLR'17 [GCN website](https://github.com/tkipf/gcn)
 
