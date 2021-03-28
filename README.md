@@ -70,6 +70,14 @@
 ## Papers on Graph Learning Systems
 [Understanding and Bridging the Gaps in Current GNN Performance Optimizations]() PPoPP'21
 
+[Dorylus: Affordable, Scalable, and Accurate GNN Training over Billion-Edge Graphs]() OSDI'21
+
+[GNNAdvisor: An Efficient Runtime System for GNN Acceleration on GPUs](https://arxiv.org/pdf/2006.06608.pdf) OSDI'21
+
+[Rubik: A Hierarchical Architecture for Efficient Graph Learning](https://arxiv.org/pdf/2009.12495.pdf) TCAD'21
+
+[fuseGNN: Accelerating Graph Convolutional Neural Network Training on GPGPU](https://seal.ece.ucsb.edu/sites/default/files/publications/fusegcn_camera_ready_.pdf)
+
 [Deep Graph Library Optimizations for Intel(R) x86 Architecture](https://arxiv.org/pdf/2007.06354.pdf)
 
 [Improving the Accuracy, Scalability, and Performance of Graph Neural Networks with Roc](learning/Roc.pdf) MLSys'20 [Roc website](https://github.com/jiazhihao/ROC)
@@ -87,8 +95,6 @@
 [CAGNET](https://arxiv.org/pdf/2005.03300.pdf) [website](https://github.com/PASSIONLab/CAGNET) SC'20
 
 [AGL: a scalable system for industrial-purpose graph machine learning](http://www.vldb.org/pvldb/vol13/p3125-zhang.pdf) VLDB'20
-
-[Dorylus: Affordable, Scalable, and Accurate GNN Training over Billion-Edge Graphs]() OSDI'21
 
 [Accurate, Efficient and Scalable Graph Embedding](https://arxiv.org/pdf/1810.11899.pdf) IPDPS'19
 
