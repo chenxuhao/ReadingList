@@ -25,13 +25,15 @@
 
 [HyGCN: A GCN Accelerator with Hybrid Architecture](https://arxiv.org/pdf/2001.02514.pdf) HPCA'20
 
-[GRIP: A Graph Neural Network Accelerator Architecture](https://arxiv.org/pdf/2007.13828.pdf)
+[GraphACT: Accelerating GCN Training on CPU-FPGA Heterogeneous Platforms](https://arxiv.org/pdf/2001.02498.pdf) FPGA'20
+
+[A Taxonomy for Classification and Comparison of Dataflows for GNN Accelerators](https://arxiv.org/pdf/2103.07977.pdf)
 
 [Architectural Implication of Graph Neural Networks](http://www.cs.sjtu.edu.cn/~leng-jw/resources/Files/zhang20cal-gnn.pdf)
 
 [GReTA: Hardware Optimized Graph Processing for GNNs](https://sing.stanford.edu/site/publications/greta-recoml20.pdf)
 
-[GraphACT: Accelerating GCN Training on CPU-FPGA Heterogeneous Platforms](https://arxiv.org/pdf/2001.02498.pdf) FPGA'20
+[GRIP: A Graph Neural Network Accelerator Architecture](https://arxiv.org/pdf/2007.13828.pdf)
 
 ## Papers on Graph Mining Systems
 
