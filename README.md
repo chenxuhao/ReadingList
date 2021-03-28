@@ -76,7 +76,7 @@
 
 [Rubik: A Hierarchical Architecture for Efficient Graph Learning](https://arxiv.org/pdf/2009.12495.pdf) TCAD'21
 
-[fuseGNN: Accelerating Graph Convolutional Neural Network Training on GPGPU](https://seal.ece.ucsb.edu/sites/default/files/publications/fusegcn_camera_ready_.pdf)
+[fuseGNN: Accelerating Graph Convolutional Neural Network Training on GPGPU](https://seal.ece.ucsb.edu/sites/default/files/publications/fusegcn_camera_ready_.pdf) ICCAD'20
 
 [Deep Graph Library Optimizations for Intel(R) x86 Architecture](https://arxiv.org/pdf/2007.06354.pdf)
 
