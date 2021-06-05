@@ -15,7 +15,7 @@
 [The TrieJax Architecture: Accelerating Graph Operations Through Relational Joins](https://arxiv.org/pdf/1905.08021.pdf) ASPLOS'20
 
 ## Papers on Graph Learning Accelerators
-[A Collocation](https://github.com/zjjzby/GNN-hardware-acceleration-paper)
+[A Collection](https://github.com/zjjzby/GNN-hardware-acceleration-paper)
 
 [Computing Graph Neural Networks: A Survey from Algorithms to Accelerators](https://arxiv.org/pdf/2010.00130.pdf)
 
