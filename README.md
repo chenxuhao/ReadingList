@@ -39,15 +39,15 @@
 
 ## Papers on Graph Sampling Frameworks
 
-[Skywalker: Efficient Alias-method-based Graph Sampling and Random Walk on GPUs](sampling/Skywalker.pdf) [Skywalker website]()
+[Skywalker: Efficient Alias-method-based Graph Sampling and Random Walk on GPUs](sampling/Skywalker.pdf) PACT'21 [Skywalker website]()
 
-[KnightKing: A Fast Distributed Graph RandomWalk Engine](sampling/KnightKing.pdf) [KnightKing website]()
+[KnightKing: A Fast Distributed Graph RandomWalk Engine](sampling/KnightKing.pdf) SOSP'19 [KnightKing website]()
 
-[Accelerating Graph Sampling for Graph Machine Learning using GPUs](sampling/NextDoor.pdf) [NextDoor website]()
+[Accelerating Graph Sampling for Graph Machine Learning using GPUs](sampling/NextDoor.pdf) EuroSys'21 [NextDoor website]()
 
-[C-SAW: A Framework for Graph Sampling and Random Walk on GPUs](sampling/C-SAW.pdf) [C-SAW website]()
+[C-SAW: A Framework for Graph Sampling and Random Walk on GPUs](sampling/C-SAW.pdf) SC'20 [C-SAW website]()
 
-[ThunderRW: An In-Memory Graph RandomWalk Engine](sampling/ThunderRW.pdf) [ThunderRW website]()
+[ThunderRW: An In-Memory Graph RandomWalk Engine](sampling/ThunderRW.pdf) VLDB'21 [ThunderRW website]()
 
 ## Papers on Graph Mining Systems
 
