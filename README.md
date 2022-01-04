@@ -37,6 +37,18 @@
 
 [GRIP: A Graph Neural Network Accelerator Architecture](https://arxiv.org/pdf/2007.13828.pdf)
 
+## Papers on Graph Sampling Frameworks
+
+[Skywalker: Efficient Alias-method-based Graph Sampling and Random Walk on GPUs](sampling/Skywalker.pdf) [Skywalker website]()
+
+[KnightKing: A Fast Distributed Graph RandomWalk Engine](sampling/KnightKing.pdf) [KnightKing website]()
+
+[Accelerating Graph Sampling for Graph Machine Learning using GPUs](sampling/NextDoor.pdf) [NextDoor website]()
+
+[C-SAW: A Framework for Graph Sampling and Random Walk on GPUs](sampling/C-SAW.pdf) [C-SAW website]()
+
+[ThunderRW: An In-Memory Graph RandomWalk Engine](sampling/ThunderRW.pdf) [ThunderRW website]()
+
 ## Papers on Graph Mining Systems
 
 [First: Fast interactive attributed subgraph matching](https://idvxlab.com/papers/2017KDD_First_Du.pdf) KDD'17
