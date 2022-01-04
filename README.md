@@ -41,13 +41,15 @@
 
 [Skywalker: Efficient Alias-method-based Graph Sampling and Random Walk on GPUs](sampling/Skywalker.pdf) PACT'21 [Skywalker website]()
 
-[KnightKing: A Fast Distributed Graph RandomWalk Engine](sampling/KnightKing.pdf) SOSP'19 [KnightKing website]()
+[KnightKing: A Fast Distributed Graph RandomWalk Engine](sampling/KnightKing.pdf) SOSP'19 [KnightKing website](https://github.com/KnightKingWalk/KnightKing)
 
-[Accelerating Graph Sampling for Graph Machine Learning using GPUs](sampling/NextDoor.pdf) EuroSys'21 [NextDoor website]()
+[Accelerating Graph Sampling for Graph Machine Learning using GPUs](sampling/NextDoor.pdf) EuroSys'21 [NextDoor website](https://github.com/plasma-umass/NextDoor)
 
-[C-SAW: A Framework for Graph Sampling and Random Walk on GPUs](sampling/C-SAW.pdf) SC'20 [C-SAW website]()
+[C-SAW: A Framework for Graph Sampling and Random Walk on GPUs](sampling/C-SAW.pdf) SC'20 [C-SAW website](https://github.com/concept-inversion/C-SAW)
 
-[ThunderRW: An In-Memory Graph RandomWalk Engine](sampling/ThunderRW.pdf) VLDB'21 [ThunderRW website]()
+[ThunderRW: An In-Memory Graph RandomWalk Engine](sampling/ThunderRW.pdf) VLDB'21 [ThunderRW website](https://github.com/Xtra-Computing/ThunderRW)
+
+[Memory-Aware Framework for Efficient Second-Order Random Walk on Large Graphs](https://shaoyx.github.io/files/main.pdf) SIGMOD'20
 
 ## Papers on Graph Mining Systems
 
