@@ -23,9 +23,15 @@
 
 [A Collection](https://github.com/zjjzby/GNN-hardware-acceleration-paper)
 
+[Computing Graph Neural Networks: A Survey from Algorithms to Accelerators](https://arxiv.org/pdf/2010.00130.pdf)
+
 [I-GCN: A Graph Convolutional Network Accelerator with Runtime Locality Enhancement through Islandization](learning/I-GCN.pdf) MICRO'21
 
-[Computing Graph Neural Networks: A Survey from Algorithms to Accelerators](https://arxiv.org/pdf/2010.00130.pdf)
+[Crossbar based Processing in Memory Accelerator Architecture for Graph Convolutional Networks](learning/PIM-GCN.pdf) ICCAD'21
+
+[A Deep Dive Into Understanding The Random Walk-Based Temporal Graph Learning](learning/RandomWalk-GCN.pdf) IISWC'21
+
+[GCNear: A Hybrid Architecture for Efficient GCN Training with Near-Memory Processing](https://arxiv.org/pdf/2111.00680.pdf)
 
 [GCNAX: A Flexible and Energy-efficient Accelerator for Graph Convolutional Neural Networks](learning/GCNAX.pdf) HPCA'21
 
