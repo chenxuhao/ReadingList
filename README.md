@@ -7,7 +7,12 @@
 
 [NN-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 
+## Papers on Graph Sampling Accelerators
+
+[Graph Sampling with Fast Random Walker on HBM-enabled FPGA Accelerators](sampling/FPGA_Random_Walker.pdf) FPL'21
+
 ## Papers on Graph Mining Accelerators
+
 [IntersectX: An Accelerator for Graph Mining](https://arxiv.org/pdf/2012.10848.pdf)
 
 [A Locality-Aware Energy-Efficient Accelerator for Graph Mining Applications](https://www.microarch.org/micro53/papers/738300a895.pdf) MICRO'20
@@ -15,11 +20,14 @@
 [The TrieJax Architecture: Accelerating Graph Operations Through Relational Joins](https://arxiv.org/pdf/1905.08021.pdf) ASPLOS'20
 
 ## Papers on Graph Learning Accelerators
+
 [A Collection](https://github.com/zjjzby/GNN-hardware-acceleration-paper)
+
+[I-GCN: A Graph Convolutional Network Accelerator with Runtime Locality Enhancement through Islandization](learning/I-GCN.pdf) MICRO'21
 
 [Computing Graph Neural Networks: A Survey from Algorithms to Accelerators](https://arxiv.org/pdf/2010.00130.pdf)
 
-[GCNAX: A Flexible and Energy-efficient Accelerator for Graph Convolutional Neural Networks]() HPCA'21
+[GCNAX: A Flexible and Energy-efficient Accelerator for Graph Convolutional Neural Networks](learning/GCNAX.pdf) HPCA'21
 
 [Hardware Acceleration of Graph Neural Networks](http://rakeshk.crhc.illinois.edu/dac20.pdf) DAC'20
 
