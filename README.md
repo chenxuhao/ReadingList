@@ -120,6 +120,7 @@ Papers are listed in the following order:
 [GraphPi](https://arxiv.org/abs/2009.10955) [website](https://github.com/thu-pacman/GraphPi) SC'20
 
 ### Graph Learning Systems ###
+
 [Understanding and Bridging the Gaps in Current GNN Performance Optimizations]() PPoPP'21
 
 [Dorylus: Affordable, Scalable, and Accurate GNN Training over Billion-Edge Graphs]() OSDI'21
@@ -151,6 +152,13 @@ Papers are listed in the following order:
 [Accurate, Efficient and Scalable Graph Embedding](https://arxiv.org/pdf/1810.11899.pdf) IPDPS'19
 
 ### Graph Learning Algorithms ###
+
+[Count-GNN: Graph Neural Networks for Subgraph Isomorphism Counting](https://openreview.net/forum?id=_MO2xzOZXv) (GNN for GPM)
+
+[Can Graph Neural Networks Count Substructures?](https://proceedings.neurips.cc/paper/2020/file/75877cb75154206c4e65e76b88a12712-Paper.pdf) (GNN for GPM)
+
+[Graph Transformer Networks](https://proceedings.neurips.cc/paper/2019/file/9d63484abb477c97640154d40595a3bb-Paper.pdf) (GPM for GNN)
+
 [Semi-Supervised Classification with Graph Convolutional Networks](learning/GCN.pdf) ICLR'17 [GCN website](https://github.com/tkipf/gcn)
 
 [The Logical Expressiveness of Graph Neural Networks](https://openreview.net/pdf?id=r1lZ7AEKvB)
