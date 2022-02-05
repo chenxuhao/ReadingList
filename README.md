@@ -8,6 +8,9 @@
 
 [NN-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 
+## Getting Started ##
+
+The document is organized as follows:
 
 * [Papers on Graph Sampling Accelerators](#sampling-accel)
 * [Papers on Graph Mining Accelerators](#mining-accel)
@@ -20,11 +23,11 @@
 * [Papers on Graph Analytics Systems](#analytics-sys)
 * [Survey Papers](#survey)
 
-## Papers on Graph Sampling Accelerators
+### Papers on Graph Sampling Accelerators ###
 
 [Graph Sampling with Fast Random Walker on HBM-enabled FPGA Accelerators](sampling/FPGA_Random_Walker.pdf) FPL'21
 
-## Papers on Graph Mining Accelerators
+### Papers on Graph Mining Accelerators ###
 
 [IntersectX: An Accelerator for Graph Mining](https://arxiv.org/pdf/2012.10848.pdf)
 
@@ -32,7 +35,7 @@
 
 [The TrieJax Architecture: Accelerating Graph Operations Through Relational Joins](https://arxiv.org/pdf/1905.08021.pdf) ASPLOS'20
 
-## Papers on Graph Learning Accelerators
+### Papers on Graph Learning Accelerators ###
 
 [A Collection](https://github.com/zjjzby/GNN-hardware-acceleration-paper)
 
@@ -64,7 +67,7 @@
 
 [GRIP: A Graph Neural Network Accelerator Architecture](https://arxiv.org/pdf/2007.13828.pdf)
 
-## Papers on Graph Sampling Frameworks
+### Papers on Graph Sampling Frameworks ###
 
 [Skywalker: Efficient Alias-method-based Graph Sampling and Random Walk on GPUs](sampling/Skywalker.pdf) PACT'21 [Skywalker website](https://github.com/wpybtw/Skywalker)
 
@@ -78,7 +81,7 @@
 
 [Memory-Aware Framework for Efficient Second-Order Random Walk on Large Graphs](https://shaoyx.github.io/files/main.pdf) SIGMOD'20
 
-## Papers on Graph Mining Systems
+### Papers on Graph Mining Systems ###
 
 [RapidMatch: A Holistic Approach to Subgraph Query Processing](https://www.comp.nus.edu.sg/~hebs/pub/rapidmatch-vldb21.pdf) VLDB 2021 [Website](https://github.com/RapidsAtHKUST/RapidMatch)
 
@@ -116,7 +119,7 @@
 
 [GraphPi](https://arxiv.org/abs/2009.10955) [website](https://github.com/thu-pacman/GraphPi) SC'20
 
-## Papers on Graph Learning Systems
+### Papers on Graph Learning Systems ###
 [Understanding and Bridging the Gaps in Current GNN Performance Optimizations]() PPoPP'21
 
 [Dorylus: Affordable, Scalable, and Accurate GNN Training over Billion-Edge Graphs]() OSDI'21
@@ -147,7 +150,7 @@
 
 [Accurate, Efficient and Scalable Graph Embedding](https://arxiv.org/pdf/1810.11899.pdf) IPDPS'19
 
-## Papers on Graph Learning Algorithms
+### Papers on Graph Learning Algorithms ###
 [Semi-Supervised Classification with Graph Convolutional Networks](learning/GCN.pdf) ICLR'17 [GCN website](https://github.com/tkipf/gcn)
 
 [The Logical Expressiveness of Graph Neural Networks](https://openreview.net/pdf?id=r1lZ7AEKvB)
@@ -176,7 +179,7 @@
 
 [GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding](https://arxiv.org/pdf/1903.00757.pdf) WWW'19 [GraphVite website](https://graphvite.io/)
 
-## Papers on Graph Analytics Accelerators
+### Papers on Graph Analytics Accelerators ###
 [DepGraph: A Dependency-Driven Accelerator for Efficient Iterative Graph Processing]() HPCA'21
 
 [P-OPT: Practical Optimal Cache Replacement for Graph Analytics](https://brandonlucia.com/pubs/POPT_HPCA21_CameraReady.pdf) HPCA'21
@@ -223,7 +226,7 @@
 
 [GraFBoost: Using accelerated flash storage for external graph analytics](https://people.csail.mit.edu/wjun/papers/isca2018-camera.pdf) ISCA'18
 
-## Papers on Graph Analytics Systems
+### Papers on Graph Analytics Systems ###
 
 [Galois](https://github.com/IntelligentSoftwareSystems/Galois)
 
@@ -231,7 +234,7 @@
 
 [PowerGraph](https://github.com/jegonzal/PowerGraph)
 
-## Survey Papers
+### Survey Papers ###
 [Introduction to Graph Neural Networks](https://www.morganclaypool.com/doi/10.2200/S00980ED1V01Y202001AIM045) Book
 
 [The Ubiquity of Large Graphs and Surprising Challenges of Graph Processing](http://www.vldb.org/pvldb/vol11/p420-sahu.pdf) VLDB'18
