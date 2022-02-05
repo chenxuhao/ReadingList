@@ -1,4 +1,5 @@
 # Reading List
+
 [The long list from MIT](https://people.csail.mit.edu/jshun/graph.shtml)
 
 [Other List](https://github.com/Qingfeng-Yao/Readinglist)
@@ -6,6 +7,18 @@
 [GNN papers](https://github.com/thunlp/GNNPapers)
 
 [NN-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
+
+
+* [Papers on Graph Sampling Accelerators](#sampling-accel)
+* [Papers on Graph Mining Accelerators](#mining-accel)
+* [Papers on Graph Learning Accelerators](#learning-accel)
+* [Papers on Graph Sampling Frameworks](#sampling-sw)
+* [Papers on Graph Mining Systems](#mining-sys)
+* [Papers on Graph Learning Systems](#learning-sys)
+* [Papers on Graph Learning Algorithms](#learning-algo)
+* [Papers on Graph Analytics Accelerators](#analytics-accel)
+* [Papers on Graph Analytics Systems](#analytics-sys)
+* [Survey Papers](#survey)
 
 ## Papers on Graph Sampling Accelerators
 
@@ -66,6 +79,12 @@
 [Memory-Aware Framework for Efficient Second-Order Random Walk on Large Graphs](https://shaoyx.github.io/files/main.pdf) SIGMOD'20
 
 ## Papers on Graph Mining Systems
+
+[RapidMatch: A Holistic Approach to Subgraph Query Processing](https://www.comp.nus.edu.sg/~hebs/pub/rapidmatch-vldb21.pdf) VLDB 2021 [Website](https://github.com/RapidsAtHKUST/RapidMatch)
+
+[GPU-Accelerated Subgraph Enumeration on Partitioned Graphs](https://dl.acm.org/doi/abs/10.1145/3318464.3389699?casa_token=6YJkJ4c7b_UAAAAA:JbNWDytqd6kY8hdktAp0FQsXGTFTaWQxAih16Q-lJZd_qzKlE3TV06HOB1brW9ThFqllWR9FqRY). SIGMOD 2020. [Bib entry](https://scholar.googleusercontent.com/scholar.bib?q=info:F6fuEJ0tqPIJ:scholar.google.com/&output=citation&scisdr=CgXYWi02EL6ftXcuxRA:AAGBfm0AAAAAX5Ar3RD-F_5o4Eu-2ejzNDHMIG7taZup&scisig=AAGBfm0AAAAAX5Ar3b8tdj-daz05wgRPHlYYWPf_O-GH&scisf=4&ct=citation&cd=-1&hl=en) [Slides](https://drive.google.com/file/d/1tPbdvbMZMaK21U-XfLG0QREgIA97RM84/view?usp=sharing) [Video](https://drive.google.com/file/d/1DnlntHNPt5HLKAgJyx4_JnSmdRn7APZy/view?usp=sharing) [Website](https://github.com/guowentian/SubgraphMatchGPU)
+
+[Exploiting Reuse for GPU Subgraph Enumeration](https://ieeexplore.ieee.org/document/9247538). TKDE 2020
 
 [First: Fast interactive attributed subgraph matching](https://idvxlab.com/papers/2017KDD_First_Du.pdf) KDD'17
 
