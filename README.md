@@ -10,24 +10,24 @@
 
 ## Getting Started ##
 
-The document is organized as follows:
+Papers are listed in the following order:
 
-* [Papers on Graph Sampling Accelerators](#sampling-accel)
-* [Papers on Graph Mining Accelerators](#mining-accel)
-* [Papers on Graph Learning Accelerators](#learning-accel)
-* [Papers on Graph Sampling Frameworks](#sampling-sw)
-* [Papers on Graph Mining Systems](#mining-sys)
-* [Papers on Graph Learning Systems](#learning-sys)
-* [Papers on Graph Learning Algorithms](#learning-algo)
-* [Papers on Graph Analytics Accelerators](#analytics-accel)
-* [Papers on Graph Analytics Systems](#analytics-sys)
-* [Survey Papers](#survey)
+* [Graph Sampling Accelerators](#graph-sampling-accelerators)
+* [Graph Mining Accelerators](#graph-mining-accelerators)
+* [Graph Learning Accelerators](#graph-learning-accelerators)
+* [Graph Sampling Frameworks](#graph-sampling-frameworks)
+* [Graph Mining Systems](#graph-mining-systems)
+* [Graph Learning Systems](#graph-learning-systems)
+* [Graph Learning Algorithms](#graph-learning-algorithms)
+* [Graph Analytics Accelerators](#graph-analytics-accelerators)
+* [Graph Analytics Systems](#graph-analytics-systems)
+* [Survey Papers](#survey-papers)
 
-### Papers on Graph Sampling Accelerators ###
+### Graph Sampling Accelerators ###
 
 [Graph Sampling with Fast Random Walker on HBM-enabled FPGA Accelerators](sampling/FPGA_Random_Walker.pdf) FPL'21
 
-### Papers on Graph Mining Accelerators ###
+### Graph Mining Accelerators ###
 
 [IntersectX: An Accelerator for Graph Mining](https://arxiv.org/pdf/2012.10848.pdf)
 
@@ -35,7 +35,7 @@ The document is organized as follows:
 
 [The TrieJax Architecture: Accelerating Graph Operations Through Relational Joins](https://arxiv.org/pdf/1905.08021.pdf) ASPLOS'20
 
-### Papers on Graph Learning Accelerators ###
+### Graph Learning Accelerators ###
 
 [A Collection](https://github.com/zjjzby/GNN-hardware-acceleration-paper)
 
@@ -67,7 +67,7 @@ The document is organized as follows:
 
 [GRIP: A Graph Neural Network Accelerator Architecture](https://arxiv.org/pdf/2007.13828.pdf)
 
-### Papers on Graph Sampling Frameworks ###
+### Graph Sampling Frameworks ###
 
 [Skywalker: Efficient Alias-method-based Graph Sampling and Random Walk on GPUs](sampling/Skywalker.pdf) PACT'21 [Skywalker website](https://github.com/wpybtw/Skywalker)
 
@@ -81,7 +81,7 @@ The document is organized as follows:
 
 [Memory-Aware Framework for Efficient Second-Order Random Walk on Large Graphs](https://shaoyx.github.io/files/main.pdf) SIGMOD'20
 
-### Papers on Graph Mining Systems ###
+### Graph Mining Systems ###
 
 [RapidMatch: A Holistic Approach to Subgraph Query Processing](https://www.comp.nus.edu.sg/~hebs/pub/rapidmatch-vldb21.pdf) VLDB 2021 [Website](https://github.com/RapidsAtHKUST/RapidMatch)
 
@@ -119,7 +119,7 @@ The document is organized as follows:
 
 [GraphPi](https://arxiv.org/abs/2009.10955) [website](https://github.com/thu-pacman/GraphPi) SC'20
 
-### Papers on Graph Learning Systems ###
+### Graph Learning Systems ###
 [Understanding and Bridging the Gaps in Current GNN Performance Optimizations]() PPoPP'21
 
 [Dorylus: Affordable, Scalable, and Accurate GNN Training over Billion-Edge Graphs]() OSDI'21
@@ -150,7 +150,7 @@ The document is organized as follows:
 
 [Accurate, Efficient and Scalable Graph Embedding](https://arxiv.org/pdf/1810.11899.pdf) IPDPS'19
 
-### Papers on Graph Learning Algorithms ###
+### Graph Learning Algorithms ###
 [Semi-Supervised Classification with Graph Convolutional Networks](learning/GCN.pdf) ICLR'17 [GCN website](https://github.com/tkipf/gcn)
 
 [The Logical Expressiveness of Graph Neural Networks](https://openreview.net/pdf?id=r1lZ7AEKvB)
@@ -179,7 +179,7 @@ The document is organized as follows:
 
 [GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding](https://arxiv.org/pdf/1903.00757.pdf) WWW'19 [GraphVite website](https://graphvite.io/)
 
-### Papers on Graph Analytics Accelerators ###
+### Graph Analytics Accelerators ###
 [DepGraph: A Dependency-Driven Accelerator for Efficient Iterative Graph Processing]() HPCA'21
 
 [P-OPT: Practical Optimal Cache Replacement for Graph Analytics](https://brandonlucia.com/pubs/POPT_HPCA21_CameraReady.pdf) HPCA'21
@@ -226,7 +226,7 @@ The document is organized as follows:
 
 [GraFBoost: Using accelerated flash storage for external graph analytics](https://people.csail.mit.edu/wjun/papers/isca2018-camera.pdf) ISCA'18
 
-### Papers on Graph Analytics Systems ###
+### Graph Analytics Systems ###
 
 [Galois](https://github.com/IntelligentSoftwareSystems/Galois)
 
