@@ -10,7 +10,7 @@ There are four categories of graph algorithms:
 
 (4) graph sampling, e.g., random walk.
 
-We group papers at different levels of the system stack: (1) algorithm, (2) software frameworks/systems; (3) hardware acclerators.
+We group papers at different levels of the system stack: (1) algorithms; (2) software frameworks/systems; (3) hardware acclerators.
 
 [The long list from MIT](https://people.csail.mit.edu/jshun/graph.shtml)
 
