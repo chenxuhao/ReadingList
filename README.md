@@ -1,5 +1,17 @@
 # Reading List
 
+There are four categories of graph algorithms: 
+
+(1) graph analytics, e.g., PageRank, SSSP, BFS, betweenness centrality;
+
+(2) graph pattern mining (GPM), e.g., k-clique listing, motif counting, frequent subgraph mining;
+
+(3) graph machine learning (GML), e.g., DeepWalk, Node2Vec, Graph Neural Networks;
+
+(4) graph sampling, e.g., random walk.
+
+We group papers at different levels of the system stack: (1) algorithm, (2) software frameworks/systems; (3) hardware acclerators.
+
 [The long list from MIT](https://people.csail.mit.edu/jshun/graph.shtml)
 
 [Other List](https://github.com/Qingfeng-Yao/Readinglist)
