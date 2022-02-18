@@ -254,7 +254,7 @@ Papers are listed in the following order:
 
 [PowerGraph](https://github.com/jegonzal/PowerGraph)
 
-### Survey Papers ###
+### Survey Papers and Books ###
 [Introduction to Graph Neural Networks](https://www.morganclaypool.com/doi/10.2200/S00980ED1V01Y202001AIM045) Book
 
 [The Ubiquity of Large Graphs and Surprising Challenges of Graph Processing](http://www.vldb.org/pvldb/vol11/p420-sahu.pdf) VLDB'18
@@ -264,3 +264,5 @@ Papers are listed in the following order:
 [Survey on social community detection](https://hal.archives-ouvertes.fr/hal-00804234/file/Survey-on-Social-Community-Detection-V2.pdf)
 
 [Practice of Streaming Processing of Dynamic Graphs: Concepts, Models, and Systems](https://arxiv.org/pdf/1912.12740.pdf)
+
+[Programming Massively Parallel Processors](https://safari.ethz.ch/architecture/fall2019/lib/exe/fetch.php?media=2013_programming_massively_parallel_processors_a_hands-on_approach_2nd.pdf)
