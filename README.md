@@ -93,6 +93,8 @@ Papers are listed in the following order:
 
 [Memory-Aware Framework for Efficient Second-Order Random Walk on Large Graphs](https://shaoyx.github.io/files/main.pdf) SIGMOD'20
 
+[GraphWalker: An I/O-Efficient and Resource-Friendly Graph Analytic System for Fast and Scalable Random Walks](https://www.usenix.org/system/files/atc20-wang-rui.pdf) ATC'20
+
 ### Graph Mining Systems ###
 
 [RapidMatch: A Holistic Approach to Subgraph Query Processing](https://www.comp.nus.edu.sg/~hebs/pub/rapidmatch-vldb21.pdf) VLDB 2021 [Website](https://github.com/RapidsAtHKUST/RapidMatch)
