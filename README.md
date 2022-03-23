@@ -33,7 +33,10 @@ Papers are listed in the following order:
 * [Graph Learning Algorithms](#graph-learning-algorithms)
 * [Graph Analytics Accelerators](#graph-analytics-accelerators)
 * [Graph Analytics Systems](#graph-analytics-systems)
-* [Survey Papers](#survey-papers)
+* [Graph Mining Algorithms](#graph-mining-algorithms)
+* [Graph Clustering and Coarsening](#graph-clustering-and-coarsening)
+* [Sparse Linear Algebra](#sparse-linear-algebra)
+* [Survey Papers and Books](#survey-papers-and-books)
 
 ### Graph Sampling Accelerators ###
 
@@ -138,6 +141,8 @@ Papers are listed in the following order:
 [GraphPi](https://arxiv.org/abs/2009.10955) [website](https://github.com/thu-pacman/GraphPi) SC'20
 
 ### Graph Learning Systems ###
+
+[QGTC: Accelerating Quantized Graph Neural Networks via GPU Tensor Core](https://arxiv.org/pdf/2111.09547.pdf) PPoPP'22
 
 [Understanding and Bridging the Gaps in Current GNN Performance Optimizations]() PPoPP'21
 
@@ -260,7 +265,20 @@ Papers are listed in the following order:
 
 [PowerGraph](https://github.com/jegonzal/PowerGraph)
 
+### Graph Mining Algorithms ###
+
+[LOTUS: Locality Optimizing Triangle Counting](https://blogs.qub.ac.uk/graphprocessing/wp-content/uploads/sites/300/2022/02/LOTUS_TC_Authors_Copy.pdf)
+
+### Graph Clustering and Coarsening ###
+
+[Scaling Up Graph Neural Networks Via Graph Coarsening](https://arxiv.org/pdf/2106.05150.pdf)
+
+### Sparse Linear Algebra ###
+
+[TileSpGEMM: A Tiled Algorithm for Parallel Sparse General Matrix-Matrix Multiplication on GPUs](https://github.com/SuperScientificSoftwareLaboratory/TileSpGEMM) PPoPP 2022
+
 ### Survey Papers and Books ###
+
 [Introduction to Graph Neural Networks](https://www.morganclaypool.com/doi/10.2200/S00980ED1V01Y202001AIM045) Book
 
 [The Ubiquity of Large Graphs and Surprising Challenges of Graph Processing](http://www.vldb.org/pvldb/vol11/p420-sahu.pdf) VLDB'18
