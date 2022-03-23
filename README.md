@@ -81,6 +81,8 @@ Papers are listed in the following order:
 
 ### Graph Sampling Frameworks ###
 
+[FlashWalker: An In-Storage Accelerator for Graph Random Walks]() IPDPS 2022
+
 [Skywalker: Efficient Alias-method-based Graph Sampling and Random Walk on GPUs](sampling/Skywalker.pdf) PACT'21 [Skywalker website](https://github.com/wpybtw/Skywalker)
 
 [KnightKing: A Fast Distributed Graph RandomWalk Engine](sampling/KnightKing.pdf) SOSP'19 [KnightKing website](https://github.com/KnightKingWalk/KnightKing)
@@ -96,6 +98,8 @@ Papers are listed in the following order:
 [GraphWalker: An I/O-Efficient and Resource-Friendly Graph Analytic System for Fast and Scalable Random Walks](https://www.usenix.org/system/files/atc20-wang-rui.pdf) ATC'20
 
 ### Graph Mining Systems ###
+
+[Mnemonic: A Parallel Subgraph Matching System for Streaming Graphs]() IPDPS 2022
 
 [RapidMatch: A Holistic Approach to Subgraph Query Processing](https://www.comp.nus.edu.sg/~hebs/pub/rapidmatch-vldb21.pdf) VLDB 2021 [Website](https://github.com/RapidsAtHKUST/RapidMatch)
 
