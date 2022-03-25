@@ -62,6 +62,16 @@ Papers are listed in the following order:
 
 [Computing Graph Neural Networks: A Survey from Algorithms to Accelerators](https://arxiv.org/pdf/2010.00130.pdf)
 
+[ReGNN: A Redundancy-Eliminated Graph Neural Networks Accelerator]() HPCA 2022
+
+[LISA: Graph Neural Network Based Portable Mapping on Spatial Accelerators]() HPCA 2022
+
+[GCoD: Graph Convolutional Network Acceleration via Dedicated Algorithm and Accelerator Co-Design]() HPCA 2022
+
+[Atomic Dataflow Based Graph-Level Workload Orchestration for Scalable DNN Accelerators]() HPCA 2022
+
+[Accelerating Graph Convolutional Networks Using Crossbar-based Processing-In-Memory Architectures]() HPCA 2022
+
 [I-GCN: A Graph Convolutional Network Accelerator with Runtime Locality Enhancement through Islandization](learning/I-GCN.pdf) MICRO'21
 
 [Crossbar based Processing in Memory Accelerator Architecture for Graph Convolutional Networks](learning/PIM-GCN.pdf) ICCAD'21
@@ -221,6 +231,11 @@ Papers are listed in the following order:
 [GraphVite: A High-Performance CPU-GPU Hybrid System for Node Embedding](https://arxiv.org/pdf/1903.00757.pdf) WWW'19 [GraphVite website](https://graphvite.io/)
 
 ### Graph Analytics Accelerators ###
+
+[Hardware-Accelerated Hypergraph Processing with Chain-Driven Scheduling]() HPCA 2022
+
+[ScalaGraph: A Scalable Accelerator for Massively Parallel Graph Processing]() HPCA 2022
+
 [DepGraph: A Dependency-Driven Accelerator for Efficient Iterative Graph Processing]() HPCA'21
 
 [P-OPT: Practical Optimal Cache Replacement for Graph Analytics](https://brandonlucia.com/pubs/POPT_HPCA21_CameraReady.pdf) HPCA'21
