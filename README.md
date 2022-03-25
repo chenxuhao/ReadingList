@@ -46,9 +46,11 @@ Papers are listed in the following order:
 
 [GraphMineSuite](https://arxiv.org/pdf/2103.03653.pdf)
 
-[SISA: Set-Centric Instruction Set Architecture for Graph Mining on Processing-in-Memory Systems](https://dl.acm.org/doi/pdf/10.1145/3466752.3480133?casa_token=QZo9UWJa8L0AAAAA:vpXSFO2SDjxctb9rf5hy8-sQSy8HQQWm2z5F5tuI259McPVMWJhvADSZ03RHOzhSy0h9dMlqAKyo) MICRO'21
+[FINGERS: Exploiting Fine-Grained Parallelism in Graph Mining Accelerators](https://dl.acm.org/doi/10.1145/3503222.3507730) ASPLOS 2022
 
 [SparseCore: Stream ISA and Processor Specialization for Sparse Computation](http://alchem.usc.edu/portal/static/download/sparsecore.pdf) ASPLOS'22
+
+[SISA: Set-Centric Instruction Set Architecture for Graph Mining on Processing-in-Memory Systems](https://dl.acm.org/doi/pdf/10.1145/3466752.3480133?casa_token=QZo9UWJa8L0AAAAA:vpXSFO2SDjxctb9rf5hy8-sQSy8HQQWm2z5F5tuI259McPVMWJhvADSZ03RHOzhSy0h9dMlqAKyo) MICRO'21
 
 [IntersectX: An Accelerator for Graph Mining](https://arxiv.org/pdf/2012.10848.pdf)
 
