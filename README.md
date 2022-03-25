@@ -44,6 +44,12 @@ Papers are listed in the following order:
 
 ### Graph Mining Accelerators ###
 
+[GraphMineSuite](https://arxiv.org/pdf/2103.03653.pdf)
+
+[SISA: Set-Centric Instruction Set Architecture for Graph Mining on Processing-in-Memory Systems](https://dl.acm.org/doi/pdf/10.1145/3466752.3480133?casa_token=QZo9UWJa8L0AAAAA:vpXSFO2SDjxctb9rf5hy8-sQSy8HQQWm2z5F5tuI259McPVMWJhvADSZ03RHOzhSy0h9dMlqAKyo) MICRO'21
+
+[SparseCore: Stream ISA and Processor Specialization for Sparse Computation](http://alchem.usc.edu/portal/static/download/sparsecore.pdf) ASPLOS'22
+
 [IntersectX: An Accelerator for Graph Mining](https://arxiv.org/pdf/2012.10848.pdf)
 
 [A Locality-Aware Energy-Efficient Accelerator for Graph Mining Applications](https://www.microarch.org/micro53/papers/738300a895.pdf) MICRO'20
@@ -103,6 +109,10 @@ Papers are listed in the following order:
 ### Graph Mining Systems ###
 
 [Mnemonic: A Parallel Subgraph Matching System for Streaming Graphs]() IPDPS 2022
+
+[Tesseract: distributed, general graph pattern mining on evolving graphs](https://dl.acm.org/doi/abs/10.1145/3447786.3456253) EuroSys'21
+
+[SumPA: Efficient Pattern-Centric Graph Mining with Pattern Abstraction](https://ieeexplore.ieee.org/abstract/document/9563022) PACT'21
 
 [RapidMatch: A Holistic Approach to Subgraph Query Processing](https://www.comp.nus.edu.sg/~hebs/pub/rapidmatch-vldb21.pdf) VLDB 2021 [Website](https://github.com/RapidsAtHKUST/RapidMatch)
 
