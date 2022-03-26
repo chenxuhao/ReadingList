@@ -168,6 +168,8 @@ Papers are listed in the following order:
 
 [Understanding and Bridging the Gaps in Current GNN Performance Optimizations]() PPoPP'21
 
+[P3: Distributed Deep Graph Learning at Scale](https://www.usenix.org/system/files/osdi21-gandhi.pdf)
+
 [Dorylus: Affordable, Scalable, and Accurate GNN Training over Billion-Edge Graphs]() OSDI'21
 
 [GNNAdvisor: An Efficient Runtime System for GNN Acceleration on GPUs](https://arxiv.org/pdf/2006.06608.pdf) OSDI'21
