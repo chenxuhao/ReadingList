@@ -45,7 +45,7 @@ Papers are listed in the following order:
 
 ### Graph Mining Accelerators ###
 
-[GraphMineSuite](https://arxiv.org/pdf/2103.03653.pdf)
+[GraphMineSuite](http://vldb.org/pvldb/vol14/p1922-besta.pdf) VLDB 2021
 
 [FINGERS: Exploiting Fine-Grained Parallelism in Graph Mining Accelerators](https://dl.acm.org/doi/10.1145/3503222.3507730) ASPLOS 2022
 
@@ -177,6 +177,10 @@ Papers are listed in the following order:
 
 [Marius: Learning Massive Graph Embeddings on a Single Machine](https://www.usenix.org/conference/osdi21/presentation/mohoney) OSDI 2021
 
+[Large Graph Convolutional Network Training with GPU-Oriented Data Communication Architecture](http://vldb.org/pvldb/vol14/p2087-min.pdf) VLDB 2021
+
+[Grain: Improving Data Efficiency of Graph Neural Networks via Diversified Influence Maximization](http://vldb.org/pvldb/vol14/p2473-zhang.pdf) VLDB 2021
+
 [Rubik: A Hierarchical Architecture for Efficient Graph Learning](https://arxiv.org/pdf/2009.12495.pdf) TCAD'21
 
 [fuseGNN: Accelerating Graph Convolutional Neural Network Training on GPGPU](https://seal.ece.ucsb.edu/sites/default/files/publications/fusegcn_camera_ready_.pdf) ICCAD'20
@@ -297,15 +301,29 @@ Papers are listed in the following order:
 
 [PowerGraph](https://github.com/jegonzal/PowerGraph)
 
+[GraphScope: A Unified Engine For Big Graph Processing](http://vldb.org/pvldb/vol14/p2879-qian.pdf) VLDB 2021
+
+[Automating Incremental Graph Processing with Flexible Memoization](http://vldb.org/pvldb/vol14/p1613-gong.pdf) VLDB 2021
+
+[EMOGI: Efficient Memory-access for Out-of-memory Graph-traversal in GPUs](http://vldb.org/pvldb/vol14/p114-min.pdf) VLDB 2021
+
 ### Graph Mining Algorithms ###
 
-[LOTUS: Locality Optimizing Triangle Counting](https://blogs.qub.ac.uk/graphprocessing/wp-content/uploads/sites/300/2022/02/LOTUS_TC_Authors_Copy.pdf)
+[LOTUS: Locality Optimizing Triangle Counting](https://blogs.qub.ac.uk/graphprocessing/wp-content/uploads/sites/300/2022/02/LOTUS_TC_Authors_Copy.pdf) PPoPP 2022
+
+[Efficient Streaming Subgraph Isomorphism with Graph Neural Networks](http://vldb.org/pvldb/vol14/p730-duong.pdf) VLDB 2021
+
+[On Analyzing Graphs with Motif-Paths](http://vldb.org/pvldb/vol14/p1111-li.pdf) VLDB 2021
+
+[Symmetric Continuous Subgraph Matching with Bidirectional Dynamic Programming](http://vldb.org/pvldb/vol14/p1298-han.pdf) VLDB 2021
 
 [Real-time Twitter Recommendation: Online Motif Detection in Large Dynamic Graphs](http://www.vldb.org/pvldb/vol7/p1379-lin.pdf) VLDB 2014
 
 ### Graph Querying Systems ###
 
 [Mycelium: Large-Scale Distributed Graph Queries with Differential Privacy](https://www.cis.upenn.edu/~sga001/papers/mycelium-sosp21.pdf) SOSP 2021
+
+[Columnar Storage and List-based Processing for Graph Database Management Systems](http://vldb.org/pvldb/vol14/p2491-gupta.pdf) VLDB 2021
 
 [EmptyHeaded: A Relational Engine for Graph Processing](mining/EmptyHeaded.pdf) SIGMOD'16
 
