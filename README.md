@@ -151,8 +151,6 @@ Papers are listed in the following order:
 
 [Optimizing Subgraph Queries by Combining Binary and Worst-Case Optimal Joins](http://www.vldb.org/pvldb/vol12/p1692-mhedhbi.pdf) VLDB'19
 
-[EmptyHeaded: A Relational Engine for Graph Processing](mining/EmptyHeaded.pdf) SIGMOD'16
-
 [The Power of Pivoting for Exact Clique Counting](mining/Pivoter.pdf) WSDM'20
 
 [DUALSIM: Parallel Subgraph Enumeration in a Massive Graph on a Single Machine](https://www.ntu.edu.sg/home/assourav/papers/SIGMOD-16-DualSim.pdf) SIGMOD'16
@@ -306,6 +304,14 @@ Papers are listed in the following order:
 ### Graph Querying Systems ###
 
 [Mycelium: Large-Scale Distributed Graph Queries with Differential Privacy](https://www.cis.upenn.edu/~sga001/papers/mycelium-sosp21.pdf)
+
+[EmptyHeaded: A Relational Engine for Graph Processing](mining/EmptyHeaded.pdf) SIGMOD'16
+
+[Graphflow](http://graphflow.io/)
+
+[Schemaless and Structureless Graph Querying](https://dl.acm.org/doi/pdf/10.14778/2732286.2732293) VLDB 2014
+
+[GraphDB: Modeling and Querying Graphs in Databases](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.52.3865&rep=rep1&type=pdf) VLDB 1994
 
 ### Graph Clustering and Coarsening ###
 
