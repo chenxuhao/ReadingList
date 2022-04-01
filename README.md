@@ -34,6 +34,7 @@ Papers are listed in the following order:
 * [Graph Analytics Accelerators](#graph-analytics-accelerators)
 * [Graph Analytics Systems](#graph-analytics-systems)
 * [Graph Mining Algorithms](#graph-mining-algorithms)
+* [Graph Querying Systems](#graph-querying-systems)
 * [Graph Clustering and Coarsening](#graph-clustering-and-coarsening)
 * [Sparse Linear Algebra](#sparse-linear-algebra)
 * [Survey Papers and Books](#survey-papers-and-books)
@@ -301,6 +302,10 @@ Papers are listed in the following order:
 ### Graph Mining Algorithms ###
 
 [LOTUS: Locality Optimizing Triangle Counting](https://blogs.qub.ac.uk/graphprocessing/wp-content/uploads/sites/300/2022/02/LOTUS_TC_Authors_Copy.pdf)
+
+### Graph Querying Systems ###
+
+[Mycelium: Large-Scale Distributed Graph Queries with Differential Privacy](https://www.cis.upenn.edu/~sga001/papers/mycelium-sosp21.pdf)
 
 ### Graph Clustering and Coarsening ###
 
