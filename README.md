@@ -104,6 +104,8 @@ Papers are listed in the following order:
 
 [FlashWalker: An In-Storage Accelerator for Graph Random Walks]() IPDPS 2022
 
+[Random Walks on Huge Graphs at Cache Efficiency](http://madsys.cs.tsinghua.edu.cn/publications/sosp21-yang.pdf)
+
 [Skywalker: Efficient Alias-method-based Graph Sampling and Random Walk on GPUs](sampling/Skywalker.pdf) PACT'21 [Skywalker website](https://github.com/wpybtw/Skywalker)
 
 [KnightKing: A Fast Distributed Graph RandomWalk Engine](sampling/KnightKing.pdf) SOSP'19 [KnightKing website](https://github.com/KnightKingWalk/KnightKing)
@@ -166,11 +168,11 @@ Papers are listed in the following order:
 
 [QGTC: Accelerating Quantized Graph Neural Networks via GPU Tensor Core](https://arxiv.org/pdf/2111.09547.pdf) PPoPP'22
 
-[Understanding and Bridging the Gaps in Current GNN Performance Optimizations]() PPoPP'21
+[Understanding and Bridging the Gaps in Current GNN Performance Optimizations](https://dl.acm.org/doi/10.1145/3437801.3441585) PPoPP'21
 
 [P3: Distributed Deep Graph Learning at Scale](https://www.usenix.org/system/files/osdi21-gandhi.pdf)
 
-[Dorylus: Affordable, Scalable, and Accurate GNN Training over Billion-Edge Graphs]() OSDI'21
+[Dorylus: Affordable, Scalable, and Accurate GNN Training over Billion-Edge Graphs](https://web.cs.ucla.edu/~harryxu/papers/dorylus-osdi21.pdf) OSDI'21
 
 [GNNAdvisor: An Efficient Runtime System for GNN Acceleration on GPUs](https://arxiv.org/pdf/2006.06608.pdf) OSDI'21
 
