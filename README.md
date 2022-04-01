@@ -301,9 +301,11 @@ Papers are listed in the following order:
 
 [LOTUS: Locality Optimizing Triangle Counting](https://blogs.qub.ac.uk/graphprocessing/wp-content/uploads/sites/300/2022/02/LOTUS_TC_Authors_Copy.pdf)
 
+[Real-time Twitter Recommendation: Online Motif Detection in Large Dynamic Graphs](http://www.vldb.org/pvldb/vol7/p1379-lin.pdf) VLDB 2014
+
 ### Graph Querying Systems ###
 
-[Mycelium: Large-Scale Distributed Graph Queries with Differential Privacy](https://www.cis.upenn.edu/~sga001/papers/mycelium-sosp21.pdf)
+[Mycelium: Large-Scale Distributed Graph Queries with Differential Privacy](https://www.cis.upenn.edu/~sga001/papers/mycelium-sosp21.pdf) SOSP 2021
 
 [EmptyHeaded: A Relational Engine for Graph Processing](mining/EmptyHeaded.pdf) SIGMOD'16
 
