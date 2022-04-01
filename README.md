@@ -170,11 +170,13 @@ Papers are listed in the following order:
 
 [Understanding and Bridging the Gaps in Current GNN Performance Optimizations](https://dl.acm.org/doi/10.1145/3437801.3441585) PPoPP'21
 
-[P3: Distributed Deep Graph Learning at Scale](https://www.usenix.org/system/files/osdi21-gandhi.pdf)
+[P3: Distributed Deep Graph Learning at Scale](https://www.usenix.org/conference/osdi21/presentation/gandhi) OSDI 2021
 
-[Dorylus: Affordable, Scalable, and Accurate GNN Training over Billion-Edge Graphs](https://web.cs.ucla.edu/~harryxu/papers/dorylus-osdi21.pdf) OSDI'21
+[Dorylus: Affordable, Scalable, and Accurate GNN Training over Billion-Edge Graphs](https://www.usenix.org/conference/osdi21/presentation/thorpe) OSDI 2021
 
-[GNNAdvisor: An Efficient Runtime System for GNN Acceleration on GPUs](https://arxiv.org/pdf/2006.06608.pdf) OSDI'21
+[GNNAdvisor: An Efficient Runtime System for GNN Acceleration on GPUs](https://www.usenix.org/conference/osdi21/presentation/wang-yuke) OSDI 2021
+
+[Marius: Learning Massive Graph Embeddings on a Single Machine](https://www.usenix.org/conference/osdi21/presentation/mohoney) OSDI 2021
 
 [Rubik: A Hierarchical Architecture for Efficient Graph Learning](https://arxiv.org/pdf/2009.12495.pdf) TCAD'21
 
