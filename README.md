@@ -65,6 +65,8 @@ Papers are listed in the following order:
 
 [Computing Graph Neural Networks: A Survey from Algorithms to Accelerators](https://arxiv.org/pdf/2010.00130.pdf)
 
+[Survey on Graph Neural Network Acceleration: An Algorithmic Perspective](https://arxiv.org/pdf/2202.04822.pdf)
+
 [ReGNN: A Redundancy-Eliminated Graph Neural Networks Accelerator]() HPCA 2022
 
 [LISA: Graph Neural Network Based Portable Mapping on Spatial Accelerators]() HPCA 2022
