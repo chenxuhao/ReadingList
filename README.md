@@ -73,8 +73,6 @@ Papers are listed in the following order:
 
 [GCoD: Graph Convolutional Network Acceleration via Dedicated Algorithm and Accelerator Co-Design]() HPCA 2022
 
-[Atomic Dataflow Based Graph-Level Workload Orchestration for Scalable DNN Accelerators]() HPCA 2022
-
 [Accelerating Graph Convolutional Networks Using Crossbar-based Processing-In-Memory Architectures]() HPCA 2022
 
 [I-GCN: A Graph Convolutional Network Accelerator with Runtime Locality Enhancement through Islandization](learning/I-GCN.pdf) MICRO'21
