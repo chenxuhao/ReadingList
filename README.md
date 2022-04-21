@@ -81,7 +81,7 @@ Papers are listed in the following order:
 
 [A Deep Dive Into Understanding The Random Walk-Based Temporal Graph Learning](learning/RandomWalk-GCN.pdf) IISWC'21
 
-[GCNear: A Hybrid Architecture for Efficient GCN Training with Near-Memory Processing](https://arxiv.org/pdf/2111.00680.pdf)
+[GCNear: A Hybrid Architecture for Efficient GCN Training with Near-Memory Processing](https://arxiv.org/pdf/2111.00680.pdf) 
 
 [GCNAX: A Flexible and Energy-efficient Accelerator for Graph Convolutional Neural Networks](learning/GCNAX.pdf) HPCA'21
 
@@ -164,6 +164,12 @@ Papers are listed in the following order:
 [GraphPi](https://arxiv.org/abs/2009.10955) [website](https://github.com/thu-pacman/GraphPi) SC'20
 
 ### Graph Learning Systems ###
+
+[Distributed Hybrid CPU and GPU training for Graph Neural Networks on Billion-Scale Heterogeneous Graphs](https://arxiv.org/pdf/2112.15345.pdf)
+
+[Marius++: Large-Scale Training of Graph Neural Networks on a Single Machine](https://arxiv.org/abs/2202.02365)
+
+[Learn Locally, Correct Globally: A Distributed Algorithm for Training Graph Neural Networks](https://arxiv.org/pdf/2111.08202.pdf) ICLR'22
 
 [QGTC: Accelerating Quantized Graph Neural Networks via GPU Tensor Core](https://arxiv.org/pdf/2111.09547.pdf) PPoPP'22
 
