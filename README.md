@@ -105,7 +105,7 @@ Papers are listed in the following order:
 
 [FlashWalker: An In-Storage Accelerator for Graph Random Walks]() IPDPS 2022
 
-[Random Walks on Huge Graphs at Cache Efficiency](http://madsys.cs.tsinghua.edu.cn/publications/sosp21-yang.pdf)
+[Random Walks on Huge Graphs at Cache Efficiency](http://madsys.cs.tsinghua.edu.cn/publications/sosp21-yang.pdf) SOSP'21
 
 [Skywalker: Efficient Alias-method-based Graph Sampling and Random Walk on GPUs](sampling/Skywalker.pdf) PACT'21 [Skywalker website](https://github.com/wpybtw/Skywalker)
 
