@@ -215,9 +215,9 @@ Papers are listed in the following order:
 
 ### Graph Learning Algorithms ###
 
-[Global Neighbor Sampling for Mixed CPU-GPU Training on Giant Graphs (GNS)](https://arxiv.org/abs/2106.06150) [GNS website](https://github.com/jadadong/GNS)
+[Global Neighbor Sampling for Mixed CPU-GPU Training on Giant Graphs (GNS)](https://arxiv.org/abs/2106.06150) KDD 2021 [GNS website](https://github.com/jadadong/GNS)
 
-[LazyGCN](https://proceedings.neurips.cc/paper/2020/file/d714d2c5a796d5814c565d78dd16188d-Paper.pdf) [LazyGCN website](https://github.com/MortezaRamezani/lazygcn)
+[GCN meets GPU: Decoupling “When to Sample” from “How to Sample”](https://proceedings.neurips.cc/paper/2020/file/d714d2c5a796d5814c565d78dd16188d-Paper.pdf) NeurIPS 2020 [LazyGCN website](https://github.com/MortezaRamezani/lazygcn)
 
 [Count-GNN: Graph Neural Networks for Subgraph Isomorphism Counting](https://openreview.net/forum?id=_MO2xzOZXv) (GNN for GPM)
 
