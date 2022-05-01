@@ -2,15 +2,15 @@
 
 There are five categories of graph algorithms: 
 
-(1) Graph analytics, e.g., PageRank, SSSP, BFS, betweenness centrality;
+(1) Graph analytics, e.g., PageRank, SSSP, BFS, betweenness centrality. There are know as [vertex programs](https://shawnliu.me/post/vertex-centric-graph-processing-the-what-and-why/);
 
 (2) Graph pattern mining (GPM), e.g., k-clique listing, motif counting, graph querying, frequent subgraph mining;
 
-(3) Graph machine learning (GML), e.g., graph embedding, DeepWalk, Node2Vec, graph neural networks;
+(3) Graph machine learning (GML), e.g., graph embedding, DeepWalk, Node2Vec, graph neural networks, for node/graph classification, link prediction, etc.;
 
-(4) Graph sampling, e.g., random walk.
+(4) Graph sampling, e.g., random walk, neighbor sampling, subgraph sampling, layer-wise sampling, etc.
 
-(5) Graph clustering, partitioning and coarsening.
+(5) Graph manipulation: graph construction, clustering, partitioning, coarsening, and streaming/dynamic graphs.
 
 We group papers at different levels of the system stack: (1) algorithms; (2) software frameworks/systems; (3) hardware acclerators.
 
