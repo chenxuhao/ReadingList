@@ -6,7 +6,7 @@ There are five categories of graph algorithms:
 
 (2) Graph pattern mining (GPM), e.g., k-clique listing, motif counting, graph querying, frequent subgraph mining;
 
-(3) Graph machine learning (GML), e.g., graph embedding, DeepWalk, Node2Vec, graph neural networks, for node/graph classification, link prediction, etc.;
+(3) Graph machine learning (GML), e.g., graph embedding, graph neural networks, for node/graph classification, link prediction, etc.;
 
 (4) Graph sampling, e.g., random walk, neighbor sampling, subgraph sampling, layer-wise sampling, etc.
 
