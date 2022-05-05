@@ -2,7 +2,7 @@
 
 There are five categories of graph algorithms: 
 
-(1) Graph analytics, e.g., PageRank, SSSP, BFS, betweenness centrality. There are know as [vertex programs](https://shawnliu.me/post/vertex-centric-graph-processing-the-what-and-why/);
+(1) Graph analytics, e.g., PageRank, SSSP, BFS, betweenness centrality. They are know as [vertex programs](https://shawnliu.me/post/vertex-centric-graph-processing-the-what-and-why/);
 
 (2) Graph pattern mining (GPM), e.g., k-clique listing, motif counting, graph querying, frequent subgraph mining;
 
