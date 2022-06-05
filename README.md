@@ -69,6 +69,12 @@ Papers are listed in the following order:
 
 [Survey on Graph Neural Network Acceleration: An Algorithmic Perspective](https://arxiv.org/pdf/2202.04822.pdf)
 
+[Graphite: optimizing graph neural networks on CPUs through cooperative software-hardware techniques](https://dl.acm.org/doi/10.1145/3470496.3527403) ISCA 2022
+
+[SmartSAGE: training large-scale graph neural networks using in-storage processing architectures](https://dl.acm.org/doi/10.1145/3470496.3527391) ISCA 2022
+
+[Hyperscale FPGA-as-a-service architecture for large-scale distributed graph neural network](https://dl.acm.org/doi/abs/10.1145/3470496.3527439) ISCA 2022
+
 [ReGNN: A Redundancy-Eliminated Graph Neural Networks Accelerator]() HPCA 2022
 
 [LISA: Graph Neural Network Based Portable Mapping on Spatial Accelerators]() HPCA 2022
