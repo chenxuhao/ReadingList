@@ -47,6 +47,8 @@ Papers are listed in the following order:
 
 ### Graph Mining Accelerators ###
 
+[NDMiner: Accelerating Graph Pattern Mining Using Near Data Processing](https://doi.org/10.1145/3470496.3527437) ISCA 2022
+
 [GraphMineSuite](http://vldb.org/pvldb/vol14/p1922-besta.pdf) VLDB 2021
 
 [FINGERS: Exploiting Fine-Grained Parallelism in Graph Mining Accelerators](https://dl.acm.org/doi/10.1145/3503222.3507730) ASPLOS 2022
