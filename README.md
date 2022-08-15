@@ -223,6 +223,16 @@ Papers are listed in the following order:
 
 ### Graph Learning Algorithms ###
 
+[Structure-Aware Transformer for Graph Representation Learning](https://proceedings.mlr.press/v162/chen22r/chen22r.pdf) ICML'22
+
+[Do Transformers Really Perform Badly for Graph Representation?](https://openreview.net/forum?id=OeWooOxFwDa) NeurIPS 2021
+
+[GraphGPS](https://arxiv.org/pdf/2205.12454.pdf) [GraphGPS website](https://github.com/rampasek/GraphGPS)
+
+[Spectral attention network](https://arxiv.org/abs/2106.03893)
+
+[Learn Locally, Correct Globally: A Distributed Algorithm for Training Graph Neural Networks](https://openreview.net/forum?id=FndDxSz3LxQ) ICLR 2022
+
 [Global Neighbor Sampling for Mixed CPU-GPU Training on Giant Graphs (GNS)](https://arxiv.org/abs/2106.06150) KDD 2021 [GNS website](https://github.com/jadadong/GNS)
 
 [GCN meets GPU: Decoupling “When to Sample” from “How to Sample”](https://proceedings.neurips.cc/paper/2020/file/d714d2c5a796d5814c565d78dd16188d-Paper.pdf) NeurIPS 2020 [LazyGCN website](https://github.com/MortezaRamezani/lazygcn)
